@@ -5,7 +5,7 @@ disable_comments: true
 
 Hi there.
 
-This is Dong. I am a phytochemist. My research interests include mass spectrometry imaging, metabolomics and chemometrics. 
+My name is Yonghui Dong. I am an analytical chemist. My research interests include mass spectrometry imaging, metabolomics and chemoinformatics. 
 
 On this dual-lingual website, I am documenting my thoughts on research and life in [English](../en/) and [Chinese](../cn/). You are welcome to comment and edit my posts through pull request by clicking 'Edit this page' button.
 

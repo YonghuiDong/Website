@@ -1,19 +1,21 @@
-
-<link rel="stylesheet" href="{{ .Site.BaseURL }}css/academicons.css" media="all">
-{{ if or .IsHome (len (findRE "^/cn/" .URL)) }}
-<script async src="/js/load-typekit.js"></script>
-{{ if lt (.Date.Year) 2017 }}
-<script>
-(function(u, c) {
-  var d = document, t = 'script', o = d.createElement(t), s = d.getElementsByTagName(t)[0];
-  o.src = u;
-  if (c) { o.addEventListener('load', function (e) { c(e); }); }
-  s.parentNode.insertBefore(o, s);
-})('//cdn.bootcss.com/pangu/3.3.0/pangu.min.js', function() {
-  pangu.spacingPage();
-});
-</script>
-{{ end }}
-{{ end }}
 <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}" />
-<script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+<script src="https://kit.fontawesome.com/6f032004ca.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="{{ "/css/academicons.css" | relURL }}"  media="all"/>
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-175316934-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-175316934-1');
+</script>

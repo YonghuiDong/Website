@@ -70,7 +70,7 @@ footnotereturnlinkcontents = "↩"
 
 [params]
     description = "Dong|董"
-    footer = "&copy; [Dong 2019 ](https://www.biodong.com) - [Tags](/tags/) - [RSS](/index.xml)"
+    footer = "&copy; [Dong 2021 ](https://www.biodong.com) - [Tags](/tags/) - [RSS](/index.xml)"
      customJS = ["js/external-link.js"]
     githubContentURL = "https://github.com/YonghuiDong/Blog/edit/master/content/"
     dateFormat = "2006-01-02" # "2006-01-02, Mon, "

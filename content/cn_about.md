@@ -3,11 +3,15 @@ title: "关于"
 slug: "cn/about"
 disable_comments: true
 ---
-## 我
+## 科研
 
-科研：主要研究方向为植物化学。
+主要研究方向包括代谢成像学，代谢组学和化学计量学。
 
+## 论文
 
+- [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
+
+- [ResearchGate](https://www.researchgate.net/profile/Yonghui_Dong)
 
 ## 博客
 
