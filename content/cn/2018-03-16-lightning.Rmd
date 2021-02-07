@@ -1,0 +1,45 @@
+---
+title: 植物与闪电
+author: ''
+date: '2018-03-16'
+slug: plant Lightning
+categories:
+  - 随笔
+tags:
+  - 随笔
+---
+
+```{r setup, echo = FALSE, message = FALSE, warning = FALSE}
+library('knitcitations')
+cleanbib()
+cite_options(hyperlink = 'to.doc', citation_format = 'text', style = 'html', max.names = 1)
+```
+
+电影《养家之人》里有一句话：
+
+> 话要说的更有道理，而不是提高声音，是雨水滋润花朵生长，而不是雷鸣。
+ Raise your words, not your voice, it's rain that grows flowers, not thunder.
+
+这是句话很有哲学美感，但从科学角度来看，事实并非如此。
+
+闪电雷鸣是植物的天然肥料。通过闪电空气中的氮气可以转化植物可吸收的氮肥（自然固氮），化学反应如下：
+
+ (1) N<sub>2</sub> + O<sub>2</sub> ---> 2NO
+
+ (2) 2NO+O<sub>2</sub> ---> 2NO<sub>2</sub> 
+
+ (3) 2NO<sub>2</sub> + H<sub>2</sub>O ---> HNO<sub>3</sub> + HNO<sub>2</sub>
+
+据估计，每次闪电可产生大约 3 x 10<sup>27</sup>  个氮氧化物分子（包括一氧化氮和二氧化氮）。按全球平均每秒闪电 100 次计算，闪电每年可产生 100 万吨氮氧化物 `r citep('10.1029/JD094iD08p11089')`。
+
+你可能会问，台词里说的是雷鸣而不是闪电。但雷鸣和闪电息息相关，有时候我们只看到闪电听不到雷鸣，是因为距离太远而已。
+
+在查找资料中，我在一些中文网站（包括很多气象网站和科普网站）里看到有“闪电能够促进植物开花期和早熟，杀死病菌害虫”等一些说法，但我并未找到相关文献，所以这里就辩证地看待一下。有意思的是，我发现一本中国气象学会在 1962 年出的小册子《闪电制肥的试验方法》，可惜没找到电子版，不然倒可以看看里面有什么有趣的结论。
+
+当然，提高说话声是否能让你的言论更信服，这又是另一个话题了。
+
+### 参考文献
+```{r warning = FALSE, results = 'asis', echo = FALSE, cache = FALSE}
+bibliography(style = 'html')
+```
+

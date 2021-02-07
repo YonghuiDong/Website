@@ -1,0 +1,54 @@
+---
+title: Bug
+author: ''
+date: '2018-04-01'
+slug: bug
+categories:
+  - R
+tags:
+  - R
+---
+
+
+
+<p>Spring is coming, and so are the bugs!</p>
+<p>Last night I found several bugs in the woolen carpet in my living room. I vacuum cleaned the carpet and sprayed some indoor pesticide, hoping that I could get rid of them.</p>
+<p>When I was playing R this morning, I encountered another ‘interesting bug’.</p>
+<p>I wanted to split a number and extracted its decimal part, so I wrote a simple function:</p>
+<pre class="r"><code>split &lt;- function(x){
+  t = unlist(strsplit(as.character(x),&quot;\\.&quot;))[2]
+  return(t)
+}</code></pre>
+<p>I tested this function and I got what I expected.</p>
+<pre class="r"><code>split(pi)</code></pre>
+<pre><code>## [1] &quot;14159265358979&quot;</code></pre>
+<pre class="r"><code>split(1.00001)</code></pre>
+<pre><code>## [1] &quot;00001&quot;</code></pre>
+<p>However when I made another test, I got some weird results:</p>
+<pre class="r"><code>split(0.0001)</code></pre>
+<pre><code>## [1] NA</code></pre>
+<pre class="r"><code>split(0.00001)</code></pre>
+<pre><code>## [1] NA</code></pre>
+<p>I got some ‘NAs’. At the beginning I did not understand what happened. It seems that this bug appears only when the integer part of the number is 0 <code>&amp;</code> the number has more than 3 decimal places <code>&amp;</code> only the last decimal place is non-zero (what a strict condition!).</p>
+<p>Finally I found out the reason. R by default uses scientific notation. So 0.0001 will be formatted as 1e-04, and when I use <code>strsplit(1e-04, &quot;\\.&quot;&quot;)</code>, it will not split this number as there is no <strong>decimal separator</strong> here.</p>
+<p>Naturally, the way to fix this bug is to disable the scientific notation and this time I got what I expected.</p>
+<pre class="r"><code>split &lt;- function(x){
+  # disable scientific notation
+  options(scipen=999)
+  t = unlist(strsplit(as.character(x),&quot;\\.&quot;))[2]
+  return(t)
+}
+
+split(0.00001)</code></pre>
+<pre><code>## [1] &quot;00001&quot;</code></pre>
+<p>However, the bug is not fully fixed. For instance, I wanted to <strong>split(2.000)</strong>, and I got ‘NA’ again.</p>
+<pre class="r"><code>split(2.000)</code></pre>
+<pre><code>## [1] NA</code></pre>
+<p>The reason is that <strong>2.00</strong> will be converted into <strong>“2”</strong> using <code>as.character(2.00)</code>. So the once-for-all solution is to use a character input rather than a numeric input.</p>
+<pre class="r"><code>split(2.00)</code></pre>
+<pre><code>## [1] NA</code></pre>
+<pre class="r"><code>split(&#39;2.00&#39;)</code></pre>
+<pre><code>## [1] &quot;00&quot;</code></pre>
+<pre class="r"><code>split(&#39;0.0001&#39;)</code></pre>
+<pre><code>## [1] &quot;0001&quot;</code></pre>
+<p>oops ~~</p>

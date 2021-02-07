@@ -1,0 +1,30 @@
+body {
+  font-family: Roboto, sans-serif;;
+  font-size: 16px;
+  line-height: 28px;
+  color: #383a42;
+}
+
+.home blockquote, .cn blockquote {
+  font-size: 15px;
+}
+
+.home blockquote, .en blockquote {
+  font-size: 15px;
+}
+
+code {
+  font-family: Consolas, Courier, "Courier New", 'STKaiti', 'KaiTi', 'SimKai', monospace;
+  color: #383a42;
+}
+pre code {
+  color: #383a42;
+  box-shadow: none;
+  font-weight: normal;
+  
+}
+p code, li code {
+  font-size: 80%;
+}
+
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>

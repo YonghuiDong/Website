@@ -1,0 +1,91 @@
+baseurl = "https://www.biodong.com"
+languageCode = "en-us"
+title = "Dong | 董"
+theme = "hugo-ivy"
+googleAnalytics = ""
+disqusShortname = "biodong"
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+enableEmoji = true
+footnotereturnlinkcontents = "↩"
+
+[permalinks]
+    cn = "/cn/:year/:slug/"
+    en = "/en/:year/:slug/"
+
+[[menu.main]]
+    name = "中文"
+    url = "/cn/"
+    weight = 2
+
+[[menu.cn]]
+    name = "首页"
+    url = "/"
+    weight = 1
+
+[[menu.cn]]
+    name = "博客"
+    url = "/cn/"
+    weight = 2
+
+[[menu.cn]]
+    name = "关于"
+    url = "/cn/about/"
+    weight = 3
+
+[[menu.cn]]
+    name = "English"
+    url = "/en/"
+    weight = 4
+
+[[menu.main]]
+    name = "English"
+    url = "/en／"
+    weight = 1
+
+[[menu.en]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.en]]
+    name = "Blog"
+    url = "/en/"
+    weight = 2
+
+[[menu.en]]
+    name = "About"
+    url = "/en/about/"
+    weight = 3
+
+[[menu.en]]
+    name = "中文"
+    url = "/cn/"
+    weight = 4
+
+[params]
+    description = "Dong|董"
+    footer = "&copy; [Dong 2019 ](https://www.biodong.com) - [Tags](/tags/) - [RSS](/index.xml)"
+     customJS = ["js/external-link.js"]
+    githubContentURL = "https://github.com/YonghuiDong/Blog/edit/master/content/"
+    dateFormat = "2006-01-02" # "2006-01-02, Mon, "
+    
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.12.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml", "tex"]
+    highlightjsTheme = "atom-one-light"
+
+[params.author]
+      en = "Yonghui Dong"
+      cn = "Yonghui Dong"
+
+[params.logo.en]
+     img = "/logo/go.png"
+     url = "/"
+     alt = "Hi there"
+     tag = ""
+
+[params.lang.edit]
+     post = "编辑该页"
+     cn = "编辑该页"

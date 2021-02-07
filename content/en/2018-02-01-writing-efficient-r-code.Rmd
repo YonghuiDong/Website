@@ -1,0 +1,92 @@
+---
+title: Writing Efficient R Code
+author: ''
+date: '2018-02-01'
+categories:
+  - R
+tags:
+  - Notes
+  - R
+slug: writing-efficient-r-code
+---
+
+<p></p>
+My notes on [Writing Efficient R code](https://www.datacamp.com/courses/writing-efficient-r-code)     
+
+
+**1. Use an up-to-date version of R**
+
+**2. The Art of Benchmarking**
+
+In order to make your code go faster, you need to know how long it takes to run. `Benchmarking` is used to time how long each solution takes, then you can select the fastest. 
+
+1. Two steps:
+
+  - construct the function
+  
+  - time the function
+
+2. Two functions:
+
+  - system.time(). Convenient, but does not allow direct comparing multiple function calls. 
+
+  - microbenchmark(). Function from microbenchmark package, allows direct comparing multiple function calls.
+
+
+**3. Fine Tuning: Efficient Base R**
+
+R is flexible because you can often solve a single problem in many different ways. Some ways can be several orders of magnitude faster than the others. 
+
+In R, memory allocation happens automatically. R allocates memory in RAM to store variables, and it is time consuming. Minimizing variable assignment could improve the speed
+
+1. Three important rules:
+
+  - Rule 1: never ever grow a vector. 
+
+  - Rule 2: use a vectorised solution wherever possible.  
+
+  - Rule 3: use a matrix instead of a dataframe whenever appropriate.  
+
+**4. Diagnosing Problems: Code Profiling**
+
+`Profiling` helps you locate the bottlenecks in your code. The general idea is to run the code and record what is being currently excuted every few milliseconds.
+
+It can be done using Profvis R-package, and this package has been integrated in Rstudio. You can highlight the code that you want to profile.
+
+**5. Turbo Charged Code: Parallel Programming**
+
+Some problems can be solved faster using multiple cores on your machine. By default, R only uses 1 core.
+
+1. How many cores does this machine have?
+
+The parallel package has a function detectCores() that determines the number of cores in a machine.
+
+2. What sort of problems benefit from parallel computing?
+
+Not every analysis can make use of multiple cores. Many statistical algorithms can only use a single core. If you can run your loop forward and backwards, there is a good chance that you can use multicore computing.
+
+3. The parallel package - parApply() & parSapply() & parLapply()
+
+They are the parallel versions of apply(), sapply() & lapply()
+
+**6. The examples**
+
+```{r, warning=FALSE}
+m <- matrix(rnorm(100000), ncol = 10)
+d <- as.data.frame(m)
+#(1) time and compare a matrix and a dataframe (point 2 and point 3: rule 3)
+library("microbenchmark")
+microbenchmark(apply(m, 1, mean), 
+               apply(d, 1, mean), 
+               times = 10) # Run each function 10 times
+
+#(2) Parallel computing (point 5)
+# Five steps
+library("parallel") #(1) Load package
+copies_of_r<- detectCores() - 1 #(2) Specify the number of cores
+cl <- makeCluster( copies_of_r) #(3) Create a cluster object
+m_mean <- parApply(cl, m, 1, mean) #(4) Swap to parApply()
+stopCluster(cl) #(5) stop
+```
+
+
