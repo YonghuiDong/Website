@@ -54,9 +54,14 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 
 [[menu.en]]
+    name = "Notes"
+    url = "https://notes.biodong.com"
+    weight = 3
+
+[[menu.en]]
     name = "About"
     url = "/en/about/"
-    weight = 3
+    weight = 4
 
 [[menu.en]]
     name = "中文"
