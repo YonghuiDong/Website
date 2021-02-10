@@ -72,7 +72,7 @@ footnotereturnlinkcontents = "↩"
     description = "Dong|董"
     footer = "&copy; [Dong 2021 ](https://www.biodong.com) - [Tags](/tags/) - [RSS](/index.xml)"
     customJS = ["js/external-link.js"]
-    githubContentURL = "https://github.com/YonghuiDong/Blog/edit/master/content/"
+    githubContentURL = "https://github.com/YonghuiDong/Website/edit/master/content/"
     dateFormat = "2006-01-02" # "2006-01-02, Mon, "
     
     # options for highlight.js (version, additional languages, and theme)
