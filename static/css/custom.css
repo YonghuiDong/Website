@@ -17,15 +17,6 @@
   padding: 1em 40px;
 }
 
-.en .main header ~ p:first-of-type::first-letter {
-  font-size: 3em;
-  color: #b2d8b2;
-  font-family: Didot, “Didot LT STD”, “Hoefler Text”, Garamond, “Times New Roman”;
-  padding: .1em .1em 0 0;
-  float: left;
-  line-height: 1em;
-}
-
 blockquote {
   font-size:100%;
   border-left: 3px solid #b2d8b2;

@@ -5,9 +5,7 @@ disable_comments: true
 ---
 ## Me  
 
-<p></p>
-
-- Hobbies: [Jogging](/jogging/) at late night, hiking & mushroom hunting
+While science is a big part of my life, in my spare time I love [jogging](/jogging), hiking and playing with cats.
 
 ## Publications
 
@@ -20,3 +18,6 @@ disable_comments: true
 - Built with blogdown + hugo. The template is designed by [Yihui Xie](https://yihui.name).
 
 - The blog is licensed under a [Creative Commons Attribution- NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) International License.
+
+
+<i class = "fab fa-font-awesome-alt fa-lg"></i>
