@@ -11,7 +11,6 @@ disable_comments: true
 
 ## Publications
 
-
 - [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
 
 - [ResearchGate](https://www.researchgate.net/profile/Yonghui_Dong)
