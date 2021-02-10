@@ -1,3 +1,7 @@
+<br></br>
+<li><a href="https://github.com/yonghuidong" target="_blank"><i class="fa fa-github" aria-hidden="true" title="Github"></i></a></li>
+<li><a href="https://twitter.com/YH_Dong" target="_blank"><i class="fa fa-twitter" aria-hidden="true" title="Twitter"></i></a></li>
+
 {{ if and (not .IsHome) .Content }}
 {{ $section := default .Section ($.Scratch.Get "section") }}
 <li class="meu-extra"></li>
@@ -7,7 +11,5 @@
 {{ $.Scratch.Set "filePath" (replaceRE "[.]html$" ".Rmd" $.File.Path) }}
 {{ $.Scratch.Set "filePath" (replace ($.Scratch.Get "filePath") "\\" "/") }}
 {{ end }}
-<li><a href="{{ or $.Params.githubEditURL  (print .  ($.Scratch.Get "filePath")) }}" target="_blank">{{ default "Edit this page" (index $.Site.Params.lang.edit $section) }}</a></li>
 {{ end }}
 {{ end }}
-
