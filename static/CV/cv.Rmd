@@ -1,0 +1,453 @@
+---
+title: "Yonghui Dong's CV"
+author: yonghui Dong
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: ["my_custom.css", "resume"]
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 4rem;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+Aside
+================================================================================
+
+
+
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> yonghui.dong@gmail.com
+- <i class="fa fa-github"></i> [github.com/YonghuiDong](https://github.com/yonghuidong)
+- <i class="fa fa-phone"></i> +972586302077
+
+<br/>
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Programming Languages:** 
+
+R (8/10)
+
+MATLAB (4/10)
+
+Python (4/10)
+
+- **R packages:** 
+
+[MSbox](https://github.com/YonghuiDong/MSbox)
+
+[Miso](https://github.com/YonghuiDong/Miso)
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Last updated on `r Sys.Date()`.
+
+Main
+================================================================================
+
+Yonghui Dong {#title}
+--------------------------------------------------------------------------------
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+### Trento University, Italy
+
+</br>
+PhD in Analytical Chemistry
+
+N/A
+
+Oct.2010 - Jun.2014
+
+Supervisors: Dr.Pietro Franceschi, Dr.Fulvio Mattivi & Prof.Guella Graziano
+
+Thesis: Mass Spectrometry Imaging: Looking Fruits at Molecular Level
+
+
+### Bologna University, Italy <br> </br> Munich University of Technology, Germany <br> </br> BOKU University, Austria
+
+</br>
+Triple MSc. in Horticulture Science
+
+N/A
+
+Sep.2008 - Sep.2010
+
+Supervisors: Dr. Stefano Tartarini, Dr. Luca Dondini & Prof. Dieter Treutter
+
+Thesis: QTL Analysis of Sugars and Organic Acids in Apricot
+
+### Northwest A&F University, China 
+
+</br>
+BSc. in Bioengineering
+
+N/A
+
+Sep.2003 - Jun.2006
+
+Supervisor: Prof. Zhihui Cheng
+
+Thesis: Effects of UV-C on the control of cucumber powdery mildew
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Researcher
+
+</br>
+Tel Aviv University, Israel
+
+N/A
+
+Jan. 2021 - Present
+
+</br>
+Head: Dr. Shira Shaham-Niv
+
+### Postdoctoral Research Fellow
+
+</br>
+Weizmann Institute of Science, Israel
+
+N/A
+
+Dec. 2014 - Dec. 2020
+
+</br>
+Supervisor: Prof. Asaph Aharoni
+
+
+### Research Associate
+
+</br>
+Trento University, Italy
+
+N/A
+
+Jul. 2014 - Nov.2014
+
+</br>
+Supervisor: Prof.Guella Graziano
+
+Research Interests {data-icon=flask data-concise=true}
+--------------------------------------------------------------------------------
+
+### Mass Spectrometry Imaging
+
+N/A
+
+N/A
+
+N/A
+
+### Metabolomics
+
+N/A
+
+N/A
+
+N/A
+
+### Chemical Ecology
+
+N/A
+
+N/A
+
+N/A
+
+
+### Chemometrics
+
+N/A
+
+N/A
+
+N/A
+
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### 17. The ‘High α-tomatine’ Locus Encodes a Glycoalkaloid Vacuolar Efflux Transporter Indispensable for Preventing Tomato Fruit Bitterness
+
+Nature Plant, Accepted
+
+N/A
+
+2021
+
+Yana Kazachkova, Itay Zemach, Sayantan Panda , Samuel Bocobza , Andrii Vainer, Ilana Rogachev, **Yonghui Dong**, Shifra Ben-Dor , Dorottya Veres , Christa Kanstrup , Sophie Konstanze Lambertz, Christoph Crocoll, Yangjie Hu, Eilon Shani, Simon Michaeli, Hussam Hassan Nour-Eldin, Dani Zamir, Asaph Aharoni
+
+
+### 16. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox
+
+New Phytologist, 2020, 228:1986-2002.
+
+N/A
+
+2020
+
+**Yonghui Dong**, Prashant Sonawane, Hagai Cohen, Guy Polturak, Liron Feldberg, Shelly Hen Avivi, Ilana Rogachev, Asaph Aharoni
+
+### 15. Rhizosphere microbiome mediates systemic root metabolite exudation by root-to-root signaling
+
+Proceedings of the National Academy of Sciences, 2020, 7:3874-3883.
+
+N/A
+
+N/A
+
+Elisa Korenblum, **Yonghui Dong**, Jedrzej Szymanski, Sayantan Panda, Adam Jozwiak, Hassan Massalha, Sagit Meir, Ilana Rogachev, Asaph Aharoni
+
+
+### 14. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis
+
+Bioinformatics, 2019, 35:3524-3526.
+
+N/A
+
+2019
+
+**Yonghui Dong**, Liron Feldberg, Asaph Aharoni
+
+### 13. A Multilevel Study of Melon Fruit Reticulation Provides Insight into Skin Ligno-suberization Hallmarks
+
+Plant Physiology, 2019, 179:1486-1501.
+
+N/A
+
+N/A
+
+Hagai Cohen, **Yonghui Dong**, Jedrzej Szymanski, Justin Lashbrooke, Sagit Meir, Efrat Almekias-Siegl, Viktoria Valeska Zeisler-Diehl, Lukas Schreiber, Asaph Aharoni
+
+### 12. In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids
+
+Nature Microbiology, 2019, 3:527-538.
+
+N/A
+
+N/A
+
+Guy Schleyer, Nir Shahaf, Carmit Ziv, **Yonghui Dong**, Roy A Meoded, Eric JN Helfrich, Daniella Schatz, Shilo Rosenwasser, Ilana Rogachev, Asaph Aharoni, Jörn Piel, Assaf Vardi
+
+
+### 11. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction
+
+Analytical Chemistry, 2018, 17:10231-10238.
+
+N/A
+
+2018
+
+Liron Feldberg, **Yonghui Dong (co-first author)**, Uwe Heinig, Ilana Rogachev, Asaph Aharoni
+
+### 10. Mapping of cell wall aromatic moieties and their effect on hygroscopic movement in the awns of stork’s bill
+
+Cellulose, 2018, 25: 3827-3841.
+
+N/A
+
+N/A
+
+Yael Abraham, **Yonghui Dong**, Asaph Aharoni, Rivka Elbaum
+
+
+### 09. TLC surface integrity affects the detection of alkali adduct ions in TLC-MALDI analysis
+
+Analytical and Bioanalytical Chemistry, 2017, 409: 5661-5666.
+
+N/A
+
+2017
+
+**Yonghui Dong**, Ruggero Ferrazza, Andrea Anesi, Graziano Guella, Pietro Franceschi
+
+### 08. Engineered gray mold resistance, antioxidant capacity, and pigmentation in betalain-producing crops and ornamentals
+
+Proceedings of the National Academy of Sciences, 2017, 14: 9062-9067.
+
+N/A
+
+N/A
+
+Guy Polturak, Noam Grossman, David Vela-Corcia, **Yonghui Dong**, Adi Nudel, Margarita Pliner, Maggie Levy, Ilana Rogachev, Asaph Aharoni
+
+### 07. Impact of tissue surface properties on the desorption electrospray ionization imaging of organic acids in grapevine stem
+
+Rapid Communications in Mass Spectrometry, 2016, 30: 711-718.
+
+N/A
+
+N/A
+
+**Yonghui Dong**, Graziano Guella, Pietro Franceschi 
+
+### 06. More than pictures: when MS imaging meets histology
+
+Trends in Plant Science, 2016, 21: 686-698.
+
+N/A
+
+2016
+
+**Yonghui Dong**, Bin Li, Asaph Aharoni     
+
+### 05. Sample preparation for mass spectrometry imaging of plant tissues: a review
+
+Frontiers in plant science, 2016.
+
+N/A
+
+N/A
+
+**Yonghui Dong**, Bin Li, Sergey Malitsky, Ilana Rogachev, Asaph Aharoni, Filip Kaftan, Aleš Svatoš, Pietro Franceschi
+
+### 04. Identification of microRNAs and their targets associated with fruit-bagging and subsequent sunlight re-exposure in the “Granny Smith” apple exocarp using high-throughput sequencing
+
+Frontiers in plant science, 2016.
+
+N/A
+
+N/A
+
+Dong Qu, Fei Yan, Rui Meng, Xiaobing Jiang, Huijuan Yang, Ziyi Gao, **Yonghui Dong**, Yazhou Yang, Zhengyang Zhao
+
+### 03. Analytical capabilities of mass spectrometry imaging and its potential applications in food science
+
+Trends in Food Science & Technology, 2016, 47: 50-63.
+
+N/A
+
+N/A
+
+Bin Li, Sage JB Dunham, **Yonghui Dong**, Sohee Yoon, Maomao Zeng, Jonathan V Sweedler
+
+### 02. High production of small organic dicarboxylate dianions by DESI and ESI
+
+Journal of The American Society for Mass Spectrometry, 2015, 26: 386-389.
+
+N/A
+
+2015
+
+**Yonghui Dong**, Graziano Guella, Fulvio Mattivi, Pietro Franceschi
+
+### 01. Combining intensity correlation analysis and MALDI imaging to study the distribution of flavonols and dihydrochalcones in Golden Delicious apples
+
+Journal of experimental botany, 2012, 63: 1123-1133.
+
+N/A
+
+2012
+
+Pietro Franceschi, **Yonghui Dong**, Kerstin Strupat, Urska Vrhovsek, Fulvio Mattivi
+
+
+Posters & Talks {data-icon=tv}
+--------------------------------------------------------------------------------
+
+### Application of MS Imaging in Plant Sciences (Talk)
+
+Mass Spectrometry Imaging Symposium (France)
+
+N/A
+
+2017
+
+### More than Pictures: When MS Imaging Meets Histology (Talk)
+
+Spring School for Advanced Imaging in Biological Research (Israel)
+
+N/A
+
+N/A
+
+### Mass Spectrometry Imaging of Plant Metabolites (Poster)
+
+Isranalytica 2015 (Israel)
+
+N/A
+
+2015
+
+### Tissue Surface Properties Jeopardize Quantitative DESI Imaging of Organic Aicds in Grapevine Stem (Poster)
+
+20th International Mass Spectrometry Conference (Switzerland)
+
+N/A
+
+2014
+
+### MS Imaging of Metabolites in Fruits (Poster)
+
+3rd MS Food day (Italy)
+
+N/A
+
+2013
+
+### MS Imaging of Small Metabolites in Fruits (Talk)
+
+Ourense Conference on Imaging Mass Spectrometry (Spain)
+
+N/A
+
+2012
+
+
+Honors & Awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### COST Action FA1101 trainee fellowship in saffronomics, Spain
+
+N/A
+
+N/A
+
+2014
+
+### Trento University PhD scholarship, Italy
+
+N/A
+
+N/A
+
+2011
+
+### FEM GMPF scholarship, Italy
+
+N/A
+
+N/A
+
+2010
+
+### Erasmus Mundus Scholarship, European Union
+
+N/A
+
+N/A
+
+2008
+
+### Undergraduate Mathematical Modeling Contest, First Prize, China
+
+N/A
+
+N/A
+
+2005
