@@ -5,17 +5,21 @@ disable_comments: true
 disable_mathjax: true
 disable_highlight: true
 ---
-## 科研
+## 关于
 
 - 主要研究方向包括代谢成像学，代谢组学和化学计量学。
 
 - 平时爱好包括[跑步](/jogging)，爬山和撸猫
 
-- 我的个人[简历](/CV/YDong.pdf)
+- <i class="ai ai-cv ai-2x"></i>: [个人简历](/CV/YDong.pdf)
 
-- 邮箱: yonghui.dong(at)gmail.com
+- <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
-- 微信: metabolome
+- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
+
+- <i class="fa fa-envelope-o" aria-hidden="true"></i>: [邮箱](mailto:yonghui.dong@gmail.com)
+
+- <i class="fa fa-weixin" aria-hidden="true"></i>: metabolome
 
 ## 论文
 

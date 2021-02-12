@@ -9,11 +9,15 @@ disable_comments: true
 
 - While science is a big part of my life, in my spare time I love [jogging](/jogging), hiking and playing with cats.
 
-- You can find my **CV** [here](/CV/YDong.pdf)
+- <i class="ai ai-cv ai-2x"></i>: [my resume](/CV/YDong.pdf)
 
-- Email: yonghui.dong(at)gmail.com
+- <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
-- Wechat: metabolome
+- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
+
+- <i class="fa fa-envelope-o" aria-hidden="true"></i>: [Email](mailto:yonghui.dong@gmail.com)
+
+- <i class="fa fa-weixin" aria-hidden="true"></i>: metabolome
 
 
 ## Publications
