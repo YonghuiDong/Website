@@ -9,6 +9,8 @@ disable_highlight: true
 
 主要研究方向包括代谢成像学，代谢组学和化学计量学。
 
+平时爱好包括[跑步](/jogging)，爬山和撸猫
+
 ## 论文
 
 - [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
@@ -22,4 +24,4 @@ disable_highlight: true
 
 - 博客内容采用[署名-非商业性使用-相同方式共享4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)国际许可协议。
 
-      
+ 

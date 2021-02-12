@@ -1,12 +1,9 @@
 ---
 title: "Jogging"
 slug: "jogging"
-disable_comments: true
-disable_mathjax: true
-disable_highlight: true
+disable_comments: true 
 ---
 
+##
 
-</br>
-
-<iframe width="950", height="800" scrolling="yes" align = "middle" frameborder="no" src="hhttps://dong.shinyapps.io/Jogging/"> </iframe>   
+<iframe width="800", height="1200" scrolling="yes" align = "middle" frameborder="no" src="https://dong.shinyapps.io/Jogging/"> </iframe> 
