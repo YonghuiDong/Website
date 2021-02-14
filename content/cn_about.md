@@ -19,7 +19,7 @@ disable_highlight: true
 
 - <i class="fa fa-envelope-o" aria-hidden="true"></i>: [邮箱](mailto:yonghui.dong@gmail.com)
 
-- <i class="fa fa-weixin" aria-hidden="true"></i>: metabolome
+- <i class="fa fa-weixin" aria-hidden="true"></i>: [微信](/img/wechat.png)
 
 ## 论文
 

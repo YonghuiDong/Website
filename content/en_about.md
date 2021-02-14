@@ -17,7 +17,7 @@ disable_comments: true
 
 - <i class="fa fa-envelope-o" aria-hidden="true"></i>: [Email](mailto:yonghui.dong@gmail.com)
 
-- <i class="fa fa-weixin" aria-hidden="true"></i>: metabolome
+- <i class="fa fa-weixin" aria-hidden="true"></i>: [Wechat](/img/wechat.png)
 
 
 ## Publications

@@ -20,8 +20,6 @@ output:
 Aside
 ================================================================================
 
-
-
 Contact {#contact}
 --------------------------------------------------------------------------------
 
@@ -29,7 +27,18 @@ Contact {#contact}
 - <i class="fa fa-github"></i> [github.com/YonghuiDong](https://github.com/yonghuidong)
 - <i class="fa fa-phone"></i> +972586302077
 
-<br/>
+
+Research Interests {#interest}
+--------------------------------------------------------------------------------
+
+Mass Spectrometry Imaging
+
+Metabolomics
+
+Chemical Ecology
+
+Chemoinformatics
+
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -102,7 +111,7 @@ Supervisor: Prof. Zhihui Cheng
 
 Thesis: Effects of UV-C on the control of cucumber powdery mildew
 
-Research Experience {data-icon=laptop}
+Research Experience {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Researcher
@@ -141,42 +150,6 @@ Jul. 2014 - Nov.2014
 
 </br>
 Supervisor: Prof.Guella Graziano
-
-Research Interests {data-icon=flask data-concise=true}
---------------------------------------------------------------------------------
-
-### Mass Spectrometry Imaging
-
-N/A
-
-N/A
-
-N/A
-
-### Metabolomics
-
-N/A
-
-N/A
-
-N/A
-
-### Chemical Ecology
-
-N/A
-
-N/A
-
-N/A
-
-
-### Chemometrics
-
-N/A
-
-N/A
-
-N/A
 
 
 Publications {data-icon=file}
