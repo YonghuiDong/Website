@@ -11,7 +11,7 @@ disable_highlight: true
 
 - 平时爱好包括[跑步](/jogging)，爬山和撸猫
 
-- <i class="ai ai-cv ai-2x"></i>: [个人简历](/CV/YDong.pdf)
+- <i class="far fa-user"></i>: [个人简历](/CV/YDong.pdf)
 
 - <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
