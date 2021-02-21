@@ -164,7 +164,7 @@ N/A
 
 2021
 
-**Yonghui Dong**, Liron Feldberg, Ilana Rogachev, and Asaph Aharoni1
+**Yonghui Dong**, Liron Feldberg, Ilana Rogachev, Asaph Aharoni
 
 ### 17. The ‘High α-tomatine’ Locus Encodes a Glycoalkaloid Vacuolar Efflux Transporter Indispensable for Preventing Tomato Fruit Bitterness
 
