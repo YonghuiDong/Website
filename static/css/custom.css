@@ -1,7 +1,7 @@
 
 @media screen and (min-width: 960px) {
   html {
-    background: #fafafa;
+    background: #f0f0e4;
   }
   body {
     background: #fff;
@@ -20,7 +20,7 @@
 }
 
 .main a:hover {
-    background: #f2e6ae;
+    background: #e7e9cd;
     border-bottom: none;
 }
 
@@ -78,7 +78,7 @@ a {
   color: black;
   text-decoration: none;
   padding-bottom: 2px;
-  border-bottom: 2px dotted #9e746c;
+  border-bottom: 2px dotted #c45894;
 }
 
 sup a {
