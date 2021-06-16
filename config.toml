@@ -12,36 +12,16 @@ footnotereturnlinkcontents = "↩"
 [permalinks]
     cn = "/cn/:year/:slug/"
     en = "/en/:year/:slug/"
-
+    
 [[menu.main]]
-    name = "中文"
-    url = "/cn/"
-    weight = 2
-
-[[menu.cn]]
-    name = "首页"
-    url = "/"
+    name = "About"
+    url = "/en/about/"
     weight = 1
 
-[[menu.cn]]
-    name = "博客"
-    url = "/cn/"
-    weight = 2
-
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/about/"
-    weight = 3
-
-[[menu.cn]]
-    name = "English"
-    url = "/en/"
-    weight = 4
-
 [[menu.main]]
-    name = "English"
+    name = "Post"
     url = "/en／"
-    weight = 1
+    weight = 2
 
 [[menu.en]]
     name = "Home"
@@ -49,24 +29,44 @@ footnotereturnlinkcontents = "↩"
     weight = 1
 
 [[menu.en]]
-    name = "Blog"
-    url = "/en/"
-    weight = 2
-
-[[menu.en]]
     name = "Notes"
     url = "https://notes.biodong.com"
-    weight = 3
+    weight = 2
 
 [[menu.en]]
     name = "About"
     url = "/en/about/"
-    weight = 4
+    weight = 3
 
 [[menu.en]]
     name = "中文"
     url = "/cn/"
     weight = 4
+
+[[menu.main]]
+    name = "关于"
+    url = "/cn/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "博文"
+    url = "/cn/"
+    weight = 4
+
+[[menu.cn]]
+    name = "首页"
+    url = "/"
+    weight = 1
+    
+[[menu.cn]]
+    name = "关于"
+    url = "/cn/about/"
+    weight = 2
+
+[[menu.cn]]
+    name = "English"
+    url = "/en/"
+    weight = 3
 
 [params]
     description = ""
