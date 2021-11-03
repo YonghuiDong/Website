@@ -9,7 +9,7 @@ disable_comments: true
 
 - While science is a big part of my life, in my spare time I love [jogging](/jogging), hiking and playing with cats.
 
-- <i class="far fa-user"></i>: [my CV](/CV/YDong.pdf)
+- <i class="far fa-user"></i>: [CV](/CV/YDong.pdf)
 
 - <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
