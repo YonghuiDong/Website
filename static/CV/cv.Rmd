@@ -35,11 +35,11 @@ Contact {#contact}
 Research Interests {#interest}
 --------------------------------------------------------------------------------
 
-Mass Spectrometry Imaging
+<i class="fa fa-angle-right"></i> Mass Spectrometry Imaging
 
-Metabolomics
+<i class="fa fa-angle-right"></i> Metabolomics
 
-Chemoinformatics
+<i class="fa fa-angle-right"></i> Chemoinformatics
 
 
 Skills {#skills}
@@ -47,21 +47,21 @@ Skills {#skills}
 
 - **Programming Languages:** 
 
-R (8/10)
+<i class="fa fa-angle-right"></i> R (8/10)
 
-Python (6/10)
+<i class="fa fa-angle-right"></i> Python (6/10)
 
-MATLAB (6/10)
+<i class="fa fa-angle-right"></i> MATLAB (6/10)
 
 - **R packages:** 
 
-[MSbox](https://github.com/YonghuiDong/MSbox)
+<i class="fa fa-angle-right"></i> [MSbox](https://github.com/YonghuiDong/MSbox)
 
-[Miso](https://github.com/YonghuiDong/Miso)
+<i class="fa fa-angle-right"></i> [Miso](https://github.com/YonghuiDong/Miso)
 
-[CCWeights](https://github.com/YonghuiDong/CCWeights)
+<i class="fa fa-angle-right"></i> [CCWeights](https://github.com/YonghuiDong/CCWeights)
 
-[RawHummus](https://github.com/YonghuiDong/RawHummus)
+<i class="fa fa-angle-right"></i> [RawHummus](https://github.com/YonghuiDong/RawHummus)
 
 
 Disclaimer {#disclaimer}
@@ -158,13 +158,23 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
+### 19. CCWeights: An R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve
+
+Bioinformatics Advances
+
+N/A
+
+2021
+
+**Yonghui Dong**, Tal Wachsman, Liat Morgan, Ehud Gazit, Rune Isak Dupon Birkler
+
 ### 18. Characterization of the PRODUCTION OF ANTHOCYANIN PIGMENT 1 Arabidopsis Dominant Mutant using DLEMMA Dual Isotope Labeling Approach
 
 Phytochemistry, 186
 
 N/A
 
-2021
+N/A
 
 **Yonghui Dong**, Liron Feldberg, Ilana Rogachev, Asaph Aharoni
 
@@ -345,6 +355,14 @@ Pietro Franceschi, **Yonghui Dong**, Kerstin Strupat, Urska Vrhovsek, Fulvio Mat
 
 Posters & Talks {data-icon=tv}
 --------------------------------------------------------------------------------
+
+### Pixel-wise Colocalization Analysis for Metabolite Identification in Mass Spectrometry Imaging (Talk)
+
+Waterman Seminar Series on Bioinformatics (Germany)
+
+N/A
+
+2021
 
 ### Application of MS Imaging in Plant Sciences (Talk)
 

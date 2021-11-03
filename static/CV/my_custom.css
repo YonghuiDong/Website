@@ -6,4 +6,14 @@ a:link {
   color: #557a55;
 }
 
-
+/*Add page number to the bottom left of the left and right pages */
+@page :left {
+  @bottom-left {
+    content: counter(page);
+  }
+}
+@page :right {
+  @bottom-left {
+    content: counter(page);
+  }
+}

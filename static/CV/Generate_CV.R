@@ -1,2 +1,3 @@
 library(pagedown)
-chrome_print('cv.rmd', 'YDong.pdf')
+chrome_print(input = 'cv.Rmd', 
+             output = 'YDong.pdf')
