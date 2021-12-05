@@ -15,10 +15,6 @@ disable_comments: true
 
 - <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
 
-- <i class="fa fa-envelope-o" aria-hidden="true"></i>: [Email](mailto:yonghui.dong@gmail.com)
-
-- <i class="fa fa-weixin" aria-hidden="true"></i>: [Wechat](/img/wechat.png)
-
 
 ## Publications
 
