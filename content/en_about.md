@@ -18,7 +18,7 @@ disable_comments: true
 
 ## Publications
 
-- <i class="ai ai-google-scholar ai-2x"></i> [Googl Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
+- <i class="ai ai-google-scholar ai-2x"></i> [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
 
 - <i class="ai ai-researchgate ai-2x"></i> [ResearchGate](https://www.researchgate.net/profile/Yonghui_Dong)
 
