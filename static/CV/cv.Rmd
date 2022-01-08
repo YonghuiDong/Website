@@ -47,7 +47,7 @@ Skills {#skills}
 
 - **Programming Languages:** 
 
-<i class="fa fa-angle-right"></i> R (8/10)
+<i class="fa fa-angle-right"></i> R (9/10)
 
 <i class="fa fa-angle-right"></i> Python (6/10)
 
@@ -160,13 +160,13 @@ Publications {data-icon=file}
 --------------------------------------------------------------------------------
 ### 19. CCWeights: An R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve
 
-Bioinformatics Advances
+Bioinformatics Advances, 1(1), vbab029
 
 N/A
 
 2021
 
-**Yonghui Dong**, Tal Wachsman, Liat Morgan, Ehud Gazit, Rune Isak Dupon Birkler
+<u>**Yonghui Dong**</u>, Tal Wachsman, Liat Morgan, Ehud Gazit, Rune Isak Dupon Birkler
 
 ### 18. Characterization of the PRODUCTION OF ANTHOCYANIN PIGMENT 1 Arabidopsis Dominant Mutant using DLEMMA Dual Isotope Labeling Approach
 
@@ -176,7 +176,7 @@ N/A
 
 N/A
 
-**Yonghui Dong**, Liron Feldberg, Ilana Rogachev, Asaph Aharoni
+<u>**Yonghui Dong**</u>, Liron Feldberg, Ilana Rogachev, Asaph Aharoni
 
 ### 17. The GORKY glycoalkaloid transporter is indispensable for preventing tomato bitterness
 
@@ -186,7 +186,7 @@ N/A
 
 N/A
 
-Yana Kazachkova, Itay Zemach, Sayantan Panda , Samuel Bocobza , Andrii Vainer, Ilana Rogachev, **Yonghui Dong**, Shifra Ben-Dor , Dorottya Veres , Christa Kanstrup , Sophie Konstanze Lambertz, Christoph Crocoll, Yangjie Hu, Eilon Shani, Simon Michaeli, Hussam Hassan Nour-Eldin, Dani Zamir, Asaph Aharoni
+Yana Kazachkova, Itay Zemach, Sayantan Panda , Samuel Bocobza , Andrii Vainer, Ilana Rogachev, <u>**Yonghui Dong**</u>, Shifra Ben-Dor , Dorottya Veres , Christa Kanstrup , Sophie Konstanze Lambertz, Christoph Crocoll, Yangjie Hu, Eilon Shani, Simon Michaeli, Hussam Hassan Nour-Eldin, Dani Zamir, Asaph Aharoni
 
 
 ### 16. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox
@@ -197,7 +197,7 @@ N/A
 
 2020
 
-**Yonghui Dong**, Prashant Sonawane, Hagai Cohen, Guy Polturak, Liron Feldberg, Shelly Hen Avivi, Ilana Rogachev, Asaph Aharoni
+<u>**Yonghui Dong**</u>, Prashant Sonawane, Hagai Cohen, Guy Polturak, Liron Feldberg, Shelly Hen Avivi, Ilana Rogachev, Asaph Aharoni
 
 ### 15. Rhizosphere microbiome mediates systemic root metabolite exudation by root-to-root signaling
 
@@ -207,7 +207,7 @@ N/A
 
 N/A
 
-Elisa Korenblum, **Yonghui Dong**, Jedrzej Szymanski, Sayantan Panda, Adam Jozwiak, Hassan Massalha, Sagit Meir, Ilana Rogachev, Asaph Aharoni
+Elisa Korenblum, <u>**Yonghui Dong**</u>, Jedrzej Szymanski, Sayantan Panda, Adam Jozwiak, Hassan Massalha, Sagit Meir, Ilana Rogachev, Asaph Aharoni
 
 
 ### 14. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis
@@ -218,7 +218,7 @@ N/A
 
 2019
 
-**Yonghui Dong**, Liron Feldberg, Asaph Aharoni
+<u>**Yonghui Dong**</u>, Liron Feldberg, Asaph Aharoni
 
 ### 13. A Multilevel Study of Melon Fruit Reticulation Provides Insight into Skin Ligno-suberization Hallmarks
 
@@ -228,7 +228,7 @@ N/A
 
 N/A
 
-Hagai Cohen, **Yonghui Dong**, Jedrzej Szymanski, Justin Lashbrooke, Sagit Meir, Efrat Almekias-Siegl, Viktoria Valeska Zeisler-Diehl, Lukas Schreiber, Asaph Aharoni
+Hagai Cohen, <u>**Yonghui Dong**</u>, Jedrzej Szymanski, Justin Lashbrooke, Sagit Meir, Efrat Almekias-Siegl, Viktoria Valeska Zeisler-Diehl, Lukas Schreiber, Asaph Aharoni
 
 ### 12. In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids
 
@@ -238,7 +238,7 @@ N/A
 
 N/A
 
-Guy Schleyer, Nir Shahaf, Carmit Ziv, **Yonghui Dong**, Roy A Meoded, Eric JN Helfrich, Daniella Schatz, Shilo Rosenwasser, Ilana Rogachev, Asaph Aharoni, Jörn Piel, Assaf Vardi
+Guy Schleyer, Nir Shahaf, Carmit Ziv, <u>**Yonghui Dong**</u>, Roy A Meoded, Eric JN Helfrich, Daniella Schatz, Shilo Rosenwasser, Ilana Rogachev, Asaph Aharoni, Jörn Piel, Assaf Vardi
 
 
 ### 11. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction
@@ -249,7 +249,7 @@ N/A
 
 2018
 
-Liron Feldberg, **Yonghui Dong (co-first author)**, Uwe Heinig, Ilana Rogachev, Asaph Aharoni
+Liron Feldberg, <u>**Yonghui Dong</u>** (co-first author), Uwe Heinig, Ilana Rogachev, Asaph Aharoni
 
 ### 10. Mapping of cell wall aromatic moieties and their effect on hygroscopic movement in the awns of stork’s bill
 
@@ -259,7 +259,7 @@ N/A
 
 N/A
 
-Yael Abraham, **Yonghui Dong**, Asaph Aharoni, Rivka Elbaum
+Yael Abraham, <u>**Yonghui Dong**</u>, Asaph Aharoni, Rivka Elbaum
 
 
 ### 09. TLC surface integrity affects the detection of alkali adduct ions in TLC-MALDI analysis
@@ -270,7 +270,7 @@ N/A
 
 2017
 
-**Yonghui Dong**, Ruggero Ferrazza, Andrea Anesi, Graziano Guella, Pietro Franceschi
+<u>**Yonghui Dong**</u>, Ruggero Ferrazza, Andrea Anesi, Graziano Guella, Pietro Franceschi
 
 ### 08. Engineered gray mold resistance, antioxidant capacity, and pigmentation in betalain-producing crops and ornamentals
 
@@ -280,7 +280,7 @@ N/A
 
 N/A
 
-Guy Polturak, Noam Grossman, David Vela-Corcia, **Yonghui Dong**, Adi Nudel, Margarita Pliner, Maggie Levy, Ilana Rogachev, Asaph Aharoni
+Guy Polturak, Noam Grossman, David Vela-Corcia, <u>**Yonghui Dong**</u>, Adi Nudel, Margarita Pliner, Maggie Levy, Ilana Rogachev, Asaph Aharoni
 
 ### 07. Impact of tissue surface properties on the desorption electrospray ionization imaging of organic acids in grapevine stem
 
@@ -290,7 +290,7 @@ N/A
 
 N/A
 
-**Yonghui Dong**, Graziano Guella, Pietro Franceschi 
+<u>**Yonghui Dong**</u>, Graziano Guella, Pietro Franceschi 
 
 ### 06. More than pictures: when MS imaging meets histology
 
@@ -300,7 +300,7 @@ N/A
 
 2016
 
-**Yonghui Dong**, Bin Li, Asaph Aharoni     
+<u>**Yonghui Dong**</u>, Bin Li, Asaph Aharoni     
 
 ### 05. Sample preparation for mass spectrometry imaging of plant tissues: a review
 
@@ -310,7 +310,7 @@ N/A
 
 N/A
 
-**Yonghui Dong**, Bin Li, Sergey Malitsky, Ilana Rogachev, Asaph Aharoni, Filip Kaftan, Aleš Svatoš, Pietro Franceschi
+<u>**Yonghui Dong**</u>, Bin Li, Sergey Malitsky, Ilana Rogachev, Asaph Aharoni, Filip Kaftan, Aleš Svatoš, Pietro Franceschi
 
 ### 04. Identification of microRNAs and their targets associated with fruit-bagging and subsequent sunlight re-exposure in the “Granny Smith” apple exocarp using high-throughput sequencing
 
@@ -320,7 +320,7 @@ N/A
 
 N/A
 
-Dong Qu, Fei Yan, Rui Meng, Xiaobing Jiang, Huijuan Yang, Ziyi Gao, **Yonghui Dong**, Yazhou Yang, Zhengyang Zhao
+Dong Qu, Fei Yan, Rui Meng, Xiaobing Jiang, Huijuan Yang, Ziyi Gao, <u>**Yonghui Dong**</u>, Yazhou Yang, Zhengyang Zhao
 
 ### 03. Analytical capabilities of mass spectrometry imaging and its potential applications in food science
 
@@ -330,7 +330,7 @@ N/A
 
 N/A
 
-Bin Li, Sage JB Dunham, **Yonghui Dong**, Sohee Yoon, Maomao Zeng, Jonathan V Sweedler
+Bin Li, Sage JB Dunham, <u>**Yonghui Dong**</u>, Sohee Yoon, Maomao Zeng, Jonathan V Sweedler
 
 ### 02. High production of small organic dicarboxylate dianions by DESI and ESI
 
@@ -340,7 +340,7 @@ N/A
 
 2015
 
-**Yonghui Dong**, Graziano Guella, Fulvio Mattivi, Pietro Franceschi
+<u>**Yonghui Dong**</u>, Graziano Guella, Fulvio Mattivi, Pietro Franceschi
 
 ### 01. Combining intensity correlation analysis and MALDI imaging to study the distribution of flavonols and dihydrochalcones in Golden Delicious apples
 
@@ -350,7 +350,7 @@ N/A
 
 2012
 
-Pietro Franceschi, **Yonghui Dong**, Kerstin Strupat, Urska Vrhovsek, Fulvio Mattivi
+Pietro Franceschi, <u>**Yonghui Dong**</u>, Kerstin Strupat, Urska Vrhovsek, Fulvio Mattivi
 
 
 Posters & Talks {data-icon=tv}
