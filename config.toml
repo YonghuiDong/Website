@@ -106,7 +106,7 @@ footnotereturnlinkcontents = "↩"
   [markup.tableOfContents]
     endLevel = 2
     ordered = false
-    startLevel = 1
+    startLevel = 2
 
 
 [params.author]
