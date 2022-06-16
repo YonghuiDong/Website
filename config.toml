@@ -19,24 +19,30 @@ footnotereturnlinkcontents = "↩"
     weight = 1
 
 [[menu.main]]
-    name = "Post"
-    url = "/en／"
+    name = "Research"
+    url = "/research/"
     weight = 2
 
 [[menu.en]]
     name = "Home"
     url = "/"
     weight = 1
-
+    
 [[menu.en]]
-    name = "Notes"
-    url = "https://notes.biodong.com"
+    name = "Posts"
+    url = "/en/"
     weight = 2
+
 
 [[menu.en]]
     name = "About"
     url = "/en/about/"
     weight = 3
+    
+[[menu.en]]
+    name = "Research"
+    url = "/research/"
+    weight = 4
 
 [[menu.en]]
     name = "中文"
@@ -49,8 +55,8 @@ footnotereturnlinkcontents = "↩"
     weight = 3
 
 [[menu.main]]
-    name = "博文"
-    url = "/cn/"
+    name = "科研"
+    url = "/research/"
     weight = 4
 
 [[menu.cn]]
@@ -64,9 +70,19 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 
 [[menu.cn]]
+    name = "博文"
+    url = "/cn/"
+    weight = 3
+
+[[menu.cn]]
+    name = "科研"
+    url = "/research"
+    weight = 4
+
+[[menu.cn]]
     name = "English"
     url = "/en/"
-    weight = 3
+    weight = 5
 
 [params]
     description = ""
@@ -88,7 +104,7 @@ footnotereturnlinkcontents = "↩"
     [markup.goldmark.renderer]
       unsafe = true
   [markup.tableOfContents]
-    endLevel = 3
+    endLevel = 2
     ordered = false
     startLevel = 2
 
@@ -106,3 +122,4 @@ footnotereturnlinkcontents = "↩"
 [params.lang.edit]
      post = "编辑该页"
      cn = "编辑该页"
+
