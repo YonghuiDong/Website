@@ -98,12 +98,12 @@ footnotereturnlinkcontents = "↩"
     highlightjsTheme = "atom-one-light"
   
 [markup]
-  defaultMarkdownHandler = "goldmark"
+  defaultMarkdownHandler = goldmark
   [markup.goldmark.renderer]
     unsafe = true  # Enable user to embed HTML snippets in Markdown content.
     hardwraps = false
   tableOfContents:
-    endLevel: 3
+    endLevel: 2
     ordered: false
     startLevel: 2
 
