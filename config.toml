@@ -96,18 +96,16 @@ footnotereturnlinkcontents = "↩"
     highlightjsCDN = "//cdn.bootcss.com"
     highlightjsLang = ["r", "yaml", "tex"]
     highlightjsTheme = "atom-one-light"
-
-
+  
 [markup]
   defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+  [markup.goldmark.renderer]
+    unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+    hardwraps = false
   [markup.tableOfContents]
+    startLevel = 2
     endLevel = 2
     ordered = false
-    startLevel = 2
-
 
 [params.author]
       en = "Yonghui Dong"
