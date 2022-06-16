@@ -15,7 +15,6 @@ You are welcome to contact me.
 
 ### 1.1 Introduction
 
-
 ### 1.2 MSI Instrument
 
 I am familiar with the following MSI instrument:
@@ -100,7 +99,7 @@ Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I
 ## 4. Chemoinformatics
 
 I mainly use **R** and **Python**
-<img src = "../img/Software.jpg">
+<img src = "../static/img/Software.jpg">
 
 ### 4.2 My Software
 
