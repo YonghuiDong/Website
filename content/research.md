@@ -13,7 +13,7 @@ You are welcome to contact me.
 
 ## 1. Mass Spectrometry Imaging
 
-### 1.1 Introduction
+#### 1.1 Introduction
 
 ### 1.2 MSI Instrument
 
