@@ -96,12 +96,55 @@ footnotereturnlinkcontents = "↩"
     highlightjsCDN = "//cdn.bootcss.com"
     highlightjsLang = ["r", "yaml", "tex"]
     highlightjsTheme = "atom-one-light"
-  
-[markup]
-  defaultMarkdownHandler = goldmark
-  [markup.goldmark.renderer]
-    unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-    hardwraps = false
+
+markup:
+  asciidocExt:
+    attributes: {}
+    backend: html5
+    extensions: []
+    failureLevel: fatal
+    noHeaderOrFooter: true
+    preserveTOC: false
+    safeMode: unsafe
+    sectionNumbers: false
+    trace: false
+    verbose: false
+    workingFolderCurrent: false
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: false
+      xhtml: false
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    hl_Lines: ""
+    hl_inline: false
+    lineAnchors: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    noHl: false
+    style: monokai
+    tabWidth: 4
   tableOfContents:
     endLevel: 2
     ordered: false
