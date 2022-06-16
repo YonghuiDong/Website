@@ -99,7 +99,7 @@ Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I
 ## 4. Chemoinformatics
 
 I mainly use **R** and **Python**
-<img src = "../static/img/Software.jpg">
+<img src = "img/Software.jpg">
 
 ### 4.2 My Software
 
