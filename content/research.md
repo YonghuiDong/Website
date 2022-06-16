@@ -2,7 +2,6 @@
 title: "Research"
 slug: "research"
 disable_comments: true
-show_toc: true
 ---
 
 I have a broad interest in **`analytical chemistry`** and **`chemoinformatics`**, You can refer to my complete publication list from  my [<i class="ai ai-google-scholar ai-2x"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
@@ -10,7 +9,7 @@ I have a broad interest in **`analytical chemistry`** and **`chemoinformatics`**
 
 You are welcome to contact me.
 
-
+{{< toc >}}
 
 ## 1. Mass Spectrometry Imaging
 
