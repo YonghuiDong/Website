@@ -4,7 +4,7 @@ slug: "research"
 disable_comments: true
 ---
 
-I have a broad interest in **analytical chemistry** and **chemoinformatics**, You can refer to my complete publication list from  [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
+I have a broad interest in **`analytical chemistry`** and **`chemoinformatics`**, You can refer to my complete publication list from  my [<i class="ai ai-google-scholar ai-2x"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
 
 
 You are welcome to contact me.
