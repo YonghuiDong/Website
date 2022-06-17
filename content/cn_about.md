@@ -19,11 +19,6 @@ disable_highlight: true
 
 - <i class="fa fa-weixin" aria-hidden="true"></i>: [微信](/img/wechat.png)
 
-## 论文
-
-- <i class="ai ai-google-scholar ai-2x"></i> [Googl Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
-
-- <i class="ai ai-researchgate ai-2x"></i> [ResearchGate](https://www.researchgate.net/profile/Yonghui_Dong)
 
 ## 博客
 

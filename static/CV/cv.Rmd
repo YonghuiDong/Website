@@ -45,23 +45,17 @@ Research Interests {#interest}
 Skills {#skills}
 --------------------------------------------------------------------------------
 
-- **Programming Languages:** 
+- **Programming:** 
 
-<i class="fa fa-angle-right"></i> R (8/10)
+<i class="fa fa-angle-right"></i> R (9/10)
 
 <i class="fa fa-angle-right"></i> Python (7/10)
 
+<i class="fa fa-angle-right"></i> Git/GitHub (6/10)
 
-- **R packages:** 
+<i class="fa fa-angle-right"></i> Docker (6/10)
 
-<i class="fa fa-angle-right"></i> [MSbox](https://github.com/YonghuiDong/MSbox)
-
-<i class="fa fa-angle-right"></i> [Miso](https://github.com/YonghuiDong/Miso)
-
-<i class="fa fa-angle-right"></i> [CCWeights](https://github.com/YonghuiDong/CCWeights)
-
-<i class="fa fa-angle-right"></i> [RawHummus](https://github.com/YonghuiDong/RawHummus)
-
+<i class="fa fa-angle-right"></i> HTML/CSS (6/10)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -170,14 +164,26 @@ Supervisor: Prof.Guella Graziano
 
 
 Publications {data-icon=file}
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+### 23. TMT-based quantitative proteomics reveals protein biomarkers from cultured Pacific abalone (Haliotis discus hannai) in different regions
+
+Food Chemistry: X, https://doi.org/10.1016/j.fochx.2022.100355
+
+N/A
+
+2022
+
+YimuLuan, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Xiuli Wang, Yue Pang, Qingwei Li, MengGou
+
+
 ### 22. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit
 
 Horticulture Research, doi: 10.1093/hr/uhac092
 
 N/A
 
-2022
+N/A
 
 Gulab Chand Arya,  <u>**Yonghui Dong**</u> (co-first author),  Uwe Heinig,  Nir Shahaf,  Yana Kazachkova, Elinor Aviv-Sharon,  Gal Nomberg,  Ofir Marinov,  Ekaterina Manasherova,  Asaph Aharoni, Hagai Cohen
 
@@ -395,6 +401,48 @@ N/A
 
 Pietro Franceschi, <u>**Yonghui Dong**</u>, Kerstin Strupat, Urska Vrhovsek, Fulvio Mattivi
 
+Software {data-icon=cubes}
+--------------------------------------------------------------------------------
+
+### 01. MSbox
+
+A series of common mass spectrometry tools. It allows checking element isotopes, calculating (isotope labelled) exact monoisitopic mass, m/z values and mass accuracy, and inspecting possible contaminant mass peaks, examining possible adducts in electrospray ionization (ESI) and Matrix-Assisted Laser Desorption Ionization (MALDI) ion sources.
+
+N/A
+
+N/A
+
+[GitHub](https://github.com/YonghuiDong/MSbox)
+
+### 02. Miso
+
+An efficient tool for fishing out labeled molecules from single, dual or multiple isotope labeling experiment.
+
+N/A
+
+N/A
+
+[GitHub](https://github.com/YonghuiDong/Miso), [Scholar](https://doi.org/10.1093/bioinformatics/btz092)
+
+### 03. CCWeights
+
+The accuracy of any analytical method highly depends on the selection of an appropriate calibration model. CCWeights is designed to automatically assess & select the best weighting factors (WF) for accurate metabolite quantification using the linear calibration curve.
+
+N/A
+
+N/A
+
+[GitHub](https://github.com/YonghuiDong/CCWeights), [Scholar](https://doi.org/10.1093/bioadv/vbab029)
+
+### 04. RawHummus
+
+Robust and reproducible data is essential to ensure high-quality results for metabolomics studies where detector sensitivity drifts, retention time, and mass accuracy shifts frequently occur. RawHummus is designed to automatically detect measurement bias &  verify system consistency.
+
+N/A
+
+N/A
+
+[GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
 
 Posters & Talks {data-icon=tv}
 --------------------------------------------------------------------------------

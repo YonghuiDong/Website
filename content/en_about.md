@@ -16,12 +16,6 @@ disable_comments: true
 - <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
 
 
-## Publications
-
-- <i class="ai ai-google-scholar ai-2x"></i> [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en)
-
-- <i class="ai ai-researchgate ai-2x"></i> [ResearchGate](https://www.researchgate.net/profile/Yonghui_Dong)
-
 ## Blog
 
 - Built with blogdown + hugo. The template is designed by [Yihui Xie](https://yihui.name).
