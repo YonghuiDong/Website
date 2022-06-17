@@ -9,4 +9,4 @@ My name is Yonghui Dong. I am an analytical chemist. I am currently working at W
 
 On this website I present some of my scientific research, and write about things that I found interesting, mostly related to sciences and my life experience.
 
-<img src = "/img/Software.jpg">
+![](img/Software.jpg)
