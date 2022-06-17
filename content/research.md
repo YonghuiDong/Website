@@ -9,7 +9,7 @@ I have a broad interest in analytical chemistry and chemoinformatics. I am speci
 
 {{< toc >}}
 
-For the complete publication list, please kindly refer to my [<i class="ai ai-google-scholar ai-2x"></i>oogle Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
+For the complete publication list, please kindly refer to my [<i class="ai ai-google-scholar ai-2x"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
 
 ## 1. Mass Spectrometry Imaging
 
@@ -41,7 +41,7 @@ I have over 12 years research experiences with MSI, and I am familiar with the f
 
 - DESI-TSQ (Waters) (1+ year)
 
-Apart from the vendor-dependent software such as FlexImaging, SCiLS Lab, ImageInsight, I have, particularly `Cardinal`, `MSI reader` and `MALDIQuant`
+Apart from the vendor-dependent software such as FlexImaging, SCiLS Lab, ImageInsight, I , particularly `Cardinal`, `MSI reader` and `MALDIQuant`
 
 ### 1.3 Representative publications
 
@@ -56,16 +56,6 @@ Apart from the vendor-dependent software such as FlexImaging, SCiLS Lab, ImageIn
 ## 2. Metabolomics/Lipidomics
 
 ### 2.1. Introduction
-
-- My research interests include mass spectrometry imaging, metabolomics and chemoinformatics.
-
-- While science is a big part of my life, in my spare time I love [jogging](/jogging), hiking and playing with cats.
-
-- <i class="far fa-user"></i>: [CV](/CV/YDong.pdf)
-
-- <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
-
-- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
 
 ### 2.2. LCMS Instrument
 
