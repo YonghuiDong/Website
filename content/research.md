@@ -4,7 +4,7 @@ slug: "research"
 disable_comments: true
 ---
 
-I have a broad interest in analytical chemistry and chemoinformatics. I am specialized in the following research areas:
+My research interests primarily lie in the following fields:
 
 
 {{< toc >}}
@@ -98,7 +98,7 @@ Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I
 
 ### 4.1 Introduction
 
-As its name suggests, chemoinformatics is 
+statistics and data visualization, chemoinformatics is 
 
  **R** and **Python** are my favorite scripting languages.
  
