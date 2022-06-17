@@ -7,8 +7,6 @@ disable_comments: true
 I have a broad interest in **analytical chemistry** and **chemoinformatics**, You can refer to my complete publication list from  [Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
 
 
-You are welcome to contact me.
-
 {{< toc >}}
 
 ## 1. Mass Spectrometry Imaging
@@ -99,7 +97,7 @@ Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I
 ## 4. Chemoinformatics
 
 I mainly use **R** and **Python**
-<img src = "images/Software.jpg">
+<img src = "/img/Software.jpg">
 
 ### 4.2 My Software
 
