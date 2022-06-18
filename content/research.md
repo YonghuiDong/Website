@@ -40,7 +40,7 @@ I have over 12 years research experiences with MSI, and I am familiar with the f
 
 - DESI-TSQ (Waters) (1+ year)
 
-Apart from the vendor-dependent software such as FlexImaging, SCiLS Lab, ImageInsight, I , particularly `Cardinal`, `MSI reader` and `MALDIQuant`
+Apart from the commercial vendor-dependent software like **FlexImaging** and **SCiLS Lab**, I also intensively use several open-source software tools for MSI data analysis and visualization, such as **Cardinal**, **MSiReader** and **MALDIQuant**.
 
 
 ### 1.3 Representative publications
@@ -53,7 +53,7 @@ Apart from the vendor-dependent software such as FlexImaging, SCiLS Lab, ImageIn
 
 -----
 
-## 2. Metabolomics/Lipidomics
+## 2. Metabolomics
 
 ### 2.1. Introduction
 
@@ -61,21 +61,10 @@ Apart from the vendor-dependent software such as FlexImaging, SCiLS Lab, ImageIn
 
 I am familiar with the following MSI instrument:
 
-- Orbitrap (Thermo) (4 year)
-
-- Orbitrap (2 years)
-
-- RapifleX MALDI-TOF/TOF Tissuetyper (Bruker) (1 year)
-
-- MALDI/DESI-Orbitrap (Prosolia-Thermo) (4 yars)
-
-- MALDI2-Orbitrap (Spectroglyph-Thermo) (1+ year)
-
-- DESI-TSQ (Waters) (1+ year)
 
 ### 2.3 Software
 
-
+Apart from the commercial vendor-dependent software like **Xcalibur**, **Compound Discoverer**, **TraceFinder**, **Progenesis** and **Masslynx**, I also intensively use many popular open-source software tools for metabolomics data analysis and visualization, such as **XCMS**, **MZMine**, **MSDial** **SIRIUS**, and **GNPS**. In addition, I also develop software packages to help me and other researchers for their specific needs. More information about my software tool can be found in [Section 4](#4).
 
 ### 2.4 Representative publications
 
@@ -94,11 +83,9 @@ Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I
 
 -----
 
-## 4. Chemoinformatics
+## 4. Chemoinformatics {#4}
 
 ### 4.1 Introduction
-
-statistics and data visualization, chemoinformatics is 
 
  **R** and **Python** are my favorite scripting languages.
  
@@ -118,7 +105,7 @@ statistics and data visualization, chemoinformatics is
 
  - **RawHummus** Robust and reproducible data is essential to ensure high-quality results for metabolomics studies where detector sensitivity drifts, retention time, and mass accuracy shifts frequently occur. RawHummus is designed to automatically detect measurement bias &  verify system consistency. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/RawHummus).
 
-### 4.4 Representative publications
+### 4.3 Representative publications
 
 <u>**Dong, Y.**</u>, Kazachkova, Y., Gou, M., Morgan, L., Wachsman, T., Gazit, E. and Birkler, R.I.D., 2022. RawHummus: an R Shiny app for automated raw data quality control in metabolomics. **Bioinformatics**, 38(7), pp.2072-2074. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
