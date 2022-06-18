@@ -57,23 +57,30 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 ### 2.1. Introduction
 
-### 2.2. LCMS Instrument
+### 2.2. My research experience
 
-I am familiar with the following MSI instrument:
+I have over 8 years research experiences with metabolomics, and I am familiar with the following LCMS instrument:
 
+- SYNAPT G2-S High Definition MS (Waters)
 
-### 2.3 Software
+- Impact II QTOF (Bruker)
 
-Apart from the commercial vendor-dependent software like **Xcalibur**, **Compound Discoverer**, **TraceFinder**, **Progenesis** and **Masslynx**, I also intensively use many popular open-source software tools for metabolomics data analysis and visualization, such as **XCMS**, **MZMine**, **MSDial** **SIRIUS**, and **GNPS**. In addition, I also develop software packages to help me and other researchers for their specific needs. More information about my software tool can be found in [Section 4](#4).
+- Orbitrap Q-Exactive Focus Hybrid (Thermo)
 
-### 2.4 Representative publications
+- Orbitrap IQ-X Tribrid  (Thermo)
+
+- TSQ Altis Triple Quadrupole (Thermo)
+
+Apart from the commercial vendor-dependent software like **Xcalibur**, **Compound Discoverer**, **TraceFinder**, **FlexAnalysis**, **Progenesis** and **Masslynx**, I also intensively use many popular open-source software tools for metabolomics data analysis and visualization, such as **XCMS**, **MZMine**, **MSDial** **SIRIUS**, and **GNPS**. In addition, I also develop software packages to help me and other researchers for their specific needs. More information about my software tools can be found in [Section 4](#4).
+
+### 2.3 Representative publications
 
 -----
 
 ## 3. Stable Isotope Labeling
 
 
-### 3.4 Representative Publications
+### 3.3 Representative Publications
 
 <u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
