@@ -71,7 +71,7 @@ I have over 8 years research experiences with metabolomics, and I am familiar wi
 
 - TSQ Altis Triple Quadrupole (Thermo)
 
-Apart from the commercial vendor-dependent software like **Xcalibur**, **Compound Discoverer**, **TraceFinder**, **FlexAnalysis**, **Progenesis** and **Masslynx**, I also intensively use many popular open-source software tools for metabolomics data analysis and visualization, such as **XCMS**, **MZMine**, **MSDial** **SIRIUS**, and **GNPS**. In addition, I also develop software packages to help me and other researchers for their specific needs. More information about my software tools can be found in [Section 4](#4).
+Apart from the commercial vendor-dependent software like **Xcalibur**, **Compound Discoverer**, **TraceFinder**, **FlexAnalysis**, **Progenesis** and **Masslynx**, I also intensively use many popular open-source software tools for metabolomics data analysis and visualization, such as **XCMS**, **MZMine**, **MS-DIAL** **SIRIUS**, and **GNPS**. In addition, I also develop software packages to help me and other researchers for their specific needs. More information about my software tools can be found in [Section 4](#4).
 
 ### 2.3 Representative publications
 
