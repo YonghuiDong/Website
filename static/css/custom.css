@@ -4,6 +4,9 @@
   }
   body {
     background: #fff;
+    font-size: 18px;
+    text-align: justify;
+    text-justify: inter-word;
   }
 }
 .menu li:not([class]) a, a:hover, .copyright a {
