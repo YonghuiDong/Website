@@ -45,11 +45,11 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 ### 1.3 Representative publications
 
-- <u>**Dong, Y.**</u>, Sonawane, P., Cohen, H., Polturak, G., Feldberg, L., Avivi, S.H., Rogachev, I. and Aharoni, A., 2020. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox. **New Phytologist**, 228(6), pp.1986-2002. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Sonawane, P., Cohen, H., Polturak, G., Feldberg, L., Avivi, S.H., Rogachev, I. and Aharoni, A., 2020. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox. **New Phytologist**, 228(6), pp.1986-2002. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_NP2022.pdf)
 
-- <u>**Dong, Y.**</u>., Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in plant science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>., Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in plant science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_TIPS2016.pdf)
 
-- <u>**Dong, Y.**</u>, Li, B., Malitsky, S., Rogachev, I., Aharoni, A., Kaftan, F., Svatoš, A. and Franceschi, P., 2016. Sample preparation for mass spectrometry imaging of plant tissues: a review. **Frontiers in Plant Science**, 7, p.60. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Li, B., Malitsky, S., Rogachev, I., Aharoni, A., Kaftan, F., Svatoš, A. and Franceschi, P., 2016. Sample preparation for mass spectrometry imaging of plant tissues: a review. **Frontiers in Plant Science**, 7, p.60. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_FPLS2016.pdf)
 
 
 
