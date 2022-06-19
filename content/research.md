@@ -45,11 +45,14 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 ### 1.3 Representative publications
 
-<u>**Dong, Y.**</u>, Sonawane, P., Cohen, H., Polturak, G., Feldberg, L., Avivi, S.H., Rogachev, I. and Aharoni, A., 2020. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox. **New Phytologist**, 228(6), pp.1986-2002. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Sonawane, P., Cohen, H., Polturak, G., Feldberg, L., Avivi, S.H., Rogachev, I. and Aharoni, A., 2020. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox. **New Phytologist**, 228(6), pp.1986-2002. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
-<u>**Dong, Y.**</u>., Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in plant science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>., Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in plant science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
-<u>**Dong, Y.**</u>, Li, B., Malitsky, S., Rogachev, I., Aharoni, A., Kaftan, F., Svatoš, A. and Franceschi, P., 2016. Sample preparation for mass spectrometry imaging of plant tissues: a review. **Frontiers in Plant Science**, 7, p.60. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Li, B., Malitsky, S., Rogachev, I., Aharoni, A., Kaftan, F., Svatoš, A. and Franceschi, P., 2016. Sample preparation for mass spectrometry imaging of plant tissues: a review. **Frontiers in Plant Science**, 7, p.60. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+
+
+
 
 -----
 
@@ -82,11 +85,11 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 ### 3.3 Representative Publications
 
-<u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
-<u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
-Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
 -----
 
@@ -114,9 +117,9 @@ Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I
 
 ### 4.3 Representative publications
 
-<u>**Dong, Y.**</u>, Kazachkova, Y., Gou, M., Morgan, L., Wachsman, T., Gazit, E. and Birkler, R.I.D., 2022. RawHummus: an R Shiny app for automated raw data quality control in metabolomics. **Bioinformatics**, 38(7), pp.2072-2074. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Kazachkova, Y., Gou, M., Morgan, L., Wachsman, T., Gazit, E. and Birkler, R.I.D., 2022. RawHummus: an R Shiny app for automated raw data quality control in metabolomics. **Bioinformatics**, 38(7), pp.2072-2074. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
-<u>**Dong, Y.**</u>, Wachsman, T., Morgan, L., Gazit, E. and Birkler, R.I.D., 2021. CCWeights: an R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve. **Bioinformatics Advances**, 1(1), p.vbab029. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Wachsman, T., Morgan, L., Gazit, E. and Birkler, R.I.D., 2021. CCWeights: an R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve. **Bioinformatics Advances**, 1(1), p.vbab029. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
-<u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
