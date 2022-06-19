@@ -109,11 +109,14 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 - **MSbox** : A series of common mass spectrometry tools. It allows checking element isotopes, calculating (isotope labelled) exact monoisitopic mass, m/z values and mass accuracy, and inspecting possible contaminant mass peaks, examining possible adducts in electrospray ionization (ESI) and Matrix-Assisted Laser Desorption Ionization (MALDI) ion sources. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/MSbox)
 
-- **Miso**: An efficient tool for fishing out labeled molecules from single, dual or multiple isotope labeling experiment. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/Miso).
+- **Miso**: An efficient tool for fishing out labeled molecules from single, dual or multiple isotope labeling experiment. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/Miso)
 
-- **CCWeights** The accuracy of any analytical method highly depends on the selection of an appropriate calibration model. CCWeights is designed to automatically assess & select the best weighting factors (WF) for accurate metabolite quantification using the linear calibration curve. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/CCWeights).
+- **CCWeights**: The accuracy of any analytical method highly depends on the selection of an appropriate calibration model. CCWeights is designed to automatically assess & select the best weighting factors (WF) for accurate metabolite quantification using the linear calibration curve. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/CCWeights)
 
- - **RawHummus** Robust and reproducible data is essential to ensure high-quality results for metabolomics studies where detector sensitivity drifts, retention time, and mass accuracy shifts frequently occur. RawHummus is designed to automatically detect measurement bias &  verify system consistency. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/RawHummus).
+ - **RawHummus**: Robust and reproducible data is essential to ensure high-quality results for metabolomics studies where detector sensitivity drifts, retention time, and mass accuracy shifts frequently occur. RawHummus is designed to automatically detect measurement bias &  verify system consistency. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/RawHummus)
+ 
+- **MetaboReport**: Provides a flexible and user-friendly workflow for data cleaning, pre-processing, statistical analysis, and reporting of metabolomics, lipidomics, and proteomics. (not published yet)
+
 
 ### 4.3 Representative publications
 
