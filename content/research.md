@@ -119,7 +119,7 @@ Together with my colleague, Feldberg Liron, we have extended the single tracer-b
 
 Both [mass spectrometry imaging (MSI)](#1) and [metabolomics](#2) studies generate increasingly complex data sets. Their comprehensive evaluation requires specialized and efficient data analysis approaches that involves cheminformatics, and statistics. 
 
-Apart from routine MSI and metabolomics data analysis, I also actively developing novel data analysis methods and software tools in these two research fields. **R** and **Python** are my commonly used programming languages. 
+Apart from routine MSI and metabolomics data analysis, I also actively developing novel data analysis methods and software tools (Fig. 4) in these two research fields. **R** and **Python** are my commonly used programming languages. 
 
 <img src = "/img/software.jpg">
 
