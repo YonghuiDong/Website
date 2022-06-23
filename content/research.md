@@ -89,7 +89,7 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 - <u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_PC2021.pdf)
 
-- <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_BI2019.pdf)
 
 - Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
@@ -122,9 +122,9 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 ### 4.3 Representative publications
 
-- <u>**Dong, Y.**</u>, Kazachkova, Y., Gou, M., Morgan, L., Wachsman, T., Gazit, E. and Birkler, R.I.D., 2022. RawHummus: an R Shiny app for automated raw data quality control in metabolomics. **Bioinformatics**, 38(7), pp.2072-2074. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Kazachkova, Y., Gou, M., Morgan, L., Wachsman, T., Gazit, E. and Birkler, R.I.D., 2022. RawHummus: an R Shiny app for automated raw data quality control in metabolomics. **Bioinformatics**, 38(7), pp.2072-2074. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/BI_BI2022.pdf)
 
-- <u>**Dong, Y.**</u>, Wachsman, T., Morgan, L., Gazit, E. and Birkler, R.I.D., 2021. CCWeights: an R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve. **Bioinformatics Advances**, 1(1), p.vbab029. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Wachsman, T., Morgan, L., Gazit, E. and Birkler, R.I.D., 2021. CCWeights: an R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve. **Bioinformatics Advances**, 1(1), p.vbab029. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/BI_BIA2021.pdf)
 
-- <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_BI2019.pdf)
 
