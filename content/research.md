@@ -11,7 +11,7 @@ My research interests primarily lie in the following fields:
 
 For the complete publication list, please kindly refer to my [<i class="ai ai-google-scholar ai-2x"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
 
-## 1. Mass Spectrometry Imaging
+## 1. Mass Spectrometry Imaging {#1}
 
 ### 1.1 Introduction
 
@@ -58,9 +58,17 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 -----
 
-## 2. Metabolomics
+## 2. Metabolomics {#2}
 
 ### 2.1. Introduction
+
+Metabolomics is the utilizes a couple of analytical tools for the quantitative and qualitative assessments of small molecules (metabolites) in a given sample. Depending on the research question or specific application, there are three common metabolomics strategies:
+
+`Untargeted Assay`: (or frequently referred to as untargeted metabolomics or global metabolomics). Its objective is to reproducibly measure as many metabolites as feasible, and provide semi-quantitative data (chromatographic peak areas are reported, not concentrations). The chemical identity of metabolites is not necessarily known prior to data acquisition.
+
+`Targeted Assay`: (or sometimes referred to as targeted metabolomics). This approach focuses on a small number of metabolites of interest whose chemical identity is known prior to data acquisition, and an absolute concentration of each metabolite is typically reported.
+
+`Semi-targeted Assay`: (or frequently referred to as metabolic profiling). It acts as an intermediate between untargeted and targeted analyses, where typically hundreds of metabolites are targeted, whose chemical identity is known prior to data acquisition. Semi-quantification information is reported in this type of approach.
 
 ### 2.2. My research experience
 
@@ -82,7 +90,9 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 -----
 
-## 3. Stable Isotope Labeling
+## 3. Stable Isotope Labeling {#3}
+
+### 3.1 Introduction
 
 Stable isotopes have the same number of protons as common elements but differ in masses due to difference in the number of neutrons. Therefore, isotopologues (i.e., metabolites containing stable isotopes) and their unlabelled counterparts generally behave identically in LC but can be distinguished in MS by their _m/z_ values. Stable isotope labelling (SIL) is increasingly used in different areas of metabolomics research and it shows great potential in metabolite structural elucidation, quantification, and pathway analysis.
 
@@ -93,7 +103,7 @@ and its flux through specific pathways.
 Together with my colleague, Feldberg Liron, we have extended the single tracer-based SIL approach by simultaneously feeding the organisms with the same precursor metabolite possessing two (now even three) different labeling schemes. Compared to the conventional single stable isotope tracing, this approach, termed DLEMMA (Dual Labeling of Metabolites for Metabolome Analysis), could largely reduce the number of plausible molecular formulas and chemical structures of the detected metabolites, thus facilitating metabolite identification. In addition, we have also successfully coupled DLEMMA with mass spectrometry imaging for accurate spatial localization analysis.
 
 
-### 3.3 Representative Publications
+### 3.2 Representative Publications
 
 - <u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_PC2021.pdf)
 
@@ -107,8 +117,9 @@ Together with my colleague, Feldberg Liron, we have extended the single tracer-b
 
 ### 4.1 Introduction
 
- **R** and **Python** are my favorite scripting languages.
- 
+Both [mass spectrometry imaging (MSI)](#1) and [metabolomics](#2) studies generate increasingly complex data sets. Their comprehensive evaluation requires specialized and efficient data analysis approaches that involves cheminformatics, and statistics. 
+
+Apart from routine MSI and metabolomics data analysis, I also actively developing novel data analysis methods and software tools in these two research fields. **R** and **Python** are my commonly used programming languages. 
 
 <img src = "/img/software.jpg">
 
