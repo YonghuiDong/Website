@@ -84,6 +84,14 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 ## 3. Stable Isotope Labeling
 
+Stable isotopes have the same number of protons as common elements but differ in masses due to difference in the number of neutrons. Therefore, isotopologues (i.e., metabolites containing stable isotopes) and their unlabelled counterparts generally behave identically in LC but can be distinguished in MS by their _m/z_ values. Stable isotope labelling (SIL) is increasingly used in different areas of metabolomics research and it shows great potential in metabolite structural elucidation, quantification, and pathway analysis.
+
+Depending on the labelling regime, organisms can be labelled uniformly or non-uniformly with different degrees of enrichment. In “global
+SIL” approaches, stable isotopes are introduced into biological systems via main nutrient sources in order to completely label all endogenously produced metabolites; while in “tracer-based SIL”, a labelled compound (namely tracer) is administrated to the organism as a metabolic substrate. Uptake and incorporation of the tracer allow following the metabolic fate of the tracer
+and its flux through specific pathways.
+
+Together with my colleague, Feldberg Liron, we have extended the single tracer-based SIL approach by simultaneously feeding the organisms with the same precursor metabolite possessing two (now even three) different labeling schemes. Compared to the conventional single stable isotope tracing, this approach, termed DLEMMA (Dual Labeling of Metabolites for Metabolome Analysis), could largely reduce the number of plausible molecular formulas and chemical structures of the detected metabolites, thus facilitating metabolite identification. In addition, we have also successfully coupled DLEMMA with mass spectrometry imaging for accurate spatial localization analysis.
+
 
 ### 3.3 Representative Publications
 
