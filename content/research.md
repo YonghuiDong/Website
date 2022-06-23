@@ -45,6 +45,8 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 ### 1.3 Representative publications
 
+- <u>**Dong, Y.**</u>, and Aharoni, A., 2022. Image to insight: exploring natural products through mass spectrometry imaging. **Natural Product Reports**. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_NPR2022.pdf)
+
 - <u>**Dong, Y.**</u>, Sonawane, P., Cohen, H., Polturak, G., Feldberg, L., Avivi, S.H., Rogachev, I. and Aharoni, A., 2020. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox. **New Phytologist**, 228(6), pp.1986-2002. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_NP2022.pdf)
 
 - <u>**Dong, Y.**</u>., Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in plant science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_TIPS2016.pdf)
@@ -85,7 +87,7 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 ### 3.3 Representative Publications
 
-- <u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- <u>**Dong, Y.**</u>, Feldberg, L., Rogachev, I. and Aharoni, A., 2021. Characterization of the PRODUCTION of ANTHOCYANIN PIGMENT 1 Arabidopsis dominant mutant using DLEMMA dual isotope labeling approach. **Phytochemistry**, 186, p.112740. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_PC2021.pdf)
 
 - <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
 
