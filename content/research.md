@@ -88,6 +88,10 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 ### 2.3 Representative publications
 
+- Arya, G.C., <u>**Dong, Y.**</u> (co-first author), Heinig, U., Shahaf, N., Kazachkova, Y., Aviv-Sharon, E., Nomberg, G., Marinov, O., Manasherova, E., Aharoni, A. and Cohen, H., 2022. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit. **Horticulture Research**, 9.
+
+
+
 -----
 
 ## 3. Stable Isotope Labeling {#3}
