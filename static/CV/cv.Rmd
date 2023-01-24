@@ -51,11 +51,9 @@ Skills {#skills}
 
 <i class="fa fa-angle-right"></i> Python (7/10)
 
-<i class="fa fa-angle-right"></i> Git/GitHub (6/10)
+<i class="fa fa-angle-right"></i> Git/GitHub (8/10)
 
-<i class="fa fa-angle-right"></i> Docker (6/10)
-
-<i class="fa fa-angle-right"></i> HTML/CSS (6/10)
+<i class="fa fa-angle-right"></i> Docker (7/10)
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -165,6 +163,27 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
+### 25. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging
+
+Analytical Chemistry
+
+N/A
+
+2023
+
+<u>**Yonghui Dong**</u>, Nir Shachaf, Liron Feldberg, Ilana Rogachev, Uwe Heinig, Asaph Aharoni
+
+
+### 24. Image to insight: exploring natural products through mass spectrometry imaging
+
+Natural product reports, 7, 1510-1530
+
+N/A
+
+2022
+
+<u>**Yonghui Dong**</u>, Asaph Aharoni
+
 
 ### 23. TMT-based quantitative proteomics reveals protein biomarkers from cultured Pacific abalone (Haliotis discus hannai) in different regions
 
@@ -172,7 +191,7 @@ Food Chemistry: X, https://doi.org/10.1016/j.fochx.2022.100355
 
 N/A
 
-2022
+N/A
 
 YimuLuan, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Xiuli Wang, Yue Pang, Qingwei Li, MengGou
 
