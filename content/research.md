@@ -36,7 +36,7 @@ I have over 12 years research experiences with MSI, and I am familiar with the f
 
 - MALDI/DESI-Orbitrap (Prosolia-Thermo) (4 yars)
 
-- MALDI2-Orbitrap (Spectroglyph-Thermo) (1+ year)
+- MALDI2-Orbitrap (Spectroglyph-Thermo) (2+ year)
 
 - DESI-TSQ (Waters) (1+ year)
 
@@ -44,6 +44,8 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 
 ### 1.3 Representative publications
+
+- <u>**Dong, Y.**</u>, Shachaf, N., Feldberg, L., Rogachev, I., Heinig, U. and Aharoni, A., 2023. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging. **Analytical Chemistry**. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_AC2023.pdf)
 
 - <u>**Dong, Y.**</u>, and Aharoni, A., 2022. Image to insight: exploring natural products through mass spectrometry imaging. **Natural Product Reports**. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_NPR2022.pdf)
 
@@ -88,9 +90,9 @@ Apart from the commercial vendor-dependent software like **Xcalibur**, **Compoun
 
 ### 2.3 Representative publications
 
+- Gou, M.,  Duan. X., Li, J., Wang, Y.,  Li, Q., Pang, Y.,  <u>**Dong, Y**</u> **(corresponding author)**., 2022. How do Vampires Suck Blood? <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/Metabolomics_lamprey2022.pdf)
+
 - Arya, G.C., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Shahaf, N., Kazachkova, Y., Aviv-Sharon, E., Nomberg, G., Marinov, O., Manasherova, E., Aharoni, A. and Cohen, H., 2022. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit. **Horticulture Research**, 9. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/Metabolomics_HR2022.pdf)
-
-
 
 -----
 
