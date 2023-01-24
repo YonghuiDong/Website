@@ -45,7 +45,7 @@ Apart from the commercial vendor-dependent software like **FlexImaging** and **S
 
 ### 1.3 Representative publications
 
-- <u>**Dong, Y.**</u>, Shachaf, N., Feldberg, L., Rogachev, I., Heinig, U. and Aharoni, A., 2023. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging. **Analytical Chemistry**. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_AC2023.pdf)
+- <u>**Dong, Y.**</u>, Shachaf, N., Feldberg, L., Rogachev, I., Heinig, U. and Aharoni, A., 2023. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging. **Analytical Chemistry**, 95(2), pp.1652–1662. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_AC2023.pdf)
 
 - <u>**Dong, Y.**</u>, and Aharoni, A., 2022. Image to insight: exploring natural products through mass spectrometry imaging. **Natural Product Reports**. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_NPR2022.pdf)
 
