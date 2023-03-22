@@ -128,11 +128,20 @@ Research Experience {data-icon=flask data-concise=true}
 ### Researcher
 
 </br>
+Mass Spectrometry Imaging Unit, Weizmann Institute of Science, Israel
+
+N/A
+
+June. 2022 - Now
+
+### Researcher
+
+</br>
 Blavatnik Center for Drug Discovery, Tel Aviv University, Israel
 
 N/A
 
-Jan. 2021 - Now
+Jan. 2021 - May.2022
 
 
 ### Postdoctoral Research Fellow
