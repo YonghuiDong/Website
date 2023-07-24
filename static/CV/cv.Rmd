@@ -25,9 +25,11 @@ Contact {#contact}
 
 - <i class="fa fa-envelope"></i> yonghui.dong@gmail.com
 
-- <i class="fa fa-github"></i> [github.com/YonghuiDong](https://github.com/yonghuidong)
+- <i class="fa fa-github"></i> [Github](https://github.com/yonghuidong)
 
 - <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Yonghui_Dong)
+
+- <i class="fa fa-twitter"></i> [Twitter](https://twitter.com/yonghui_dong)
 
 - <i class="fa fa-phone"></i> +972586302077
 
@@ -50,6 +52,10 @@ Skills {#skills}
 <i class="fa fa-angle-right"></i> R (9/10)
 
 <i class="fa fa-angle-right"></i> Python (7/10)
+
+<i class="fa fa-angle-right"></i> MATLAB (7/10)
+
+<i class="fa fa-angle-right"></i> HTML/CSS (7/10)
 
 <i class="fa fa-angle-right"></i> Git/GitHub (8/10)
 
@@ -147,13 +153,12 @@ Jan. 2021 - May.2022
 ### Postdoctoral Research Fellow
 
 </br>
-Weizmann Institute of Science, Israel
+Weizmann Institute of Science, Israel 
 
 N/A
 
 Dec. 2014 - Dec. 2020
 
-</br>
 Supervisor: Prof. Asaph Aharoni
 
 
@@ -166,19 +171,28 @@ N/A
 
 Jul. 2014 - Nov.2014
 
-</br>
 Supervisor: Prof.Guella Graziano
 
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
+### 26. Parallel evolution of cannabinoid biosynthesis
+
+Natur Plants, 1-15
+
+N/A
+
+2023
+
+Paula Berman, Luis Alejandro de Haro, Adam Jozwiak, Sayantan Panda, Zoe Pinkas, <u>**Yonghui Dong**</u>, Jelena Cveticanin, Ranjit Barbole, Rotem Livne, Tali Scherf, Eyal Shimoni, Smadar Levin-Zaidman, Nili Dezorella, Ekaterina Petrovich-Kopitman, Sagit Meir, Ilana Rogachev, Prashant D Sonawane, Asaph Aharoni
+
 ### 25. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging
 
 Analytical Chemistry
 
 N/A
 
-2023
+N/A
 
 <u>**Yonghui Dong**</u>, Nir Shachaf, Liron Feldberg, Ilana Rogachev, Uwe Heinig, Asaph Aharoni
 
@@ -196,7 +210,7 @@ N/A
 
 ### 23. TMT-based quantitative proteomics reveals protein biomarkers from cultured Pacific abalone (Haliotis discus hannai) in different regions
 
-Food Chemistry: X, https://doi.org/10.1016/j.fochx.2022.100355
+Food Chemistry: X, 100355
 
 N/A
 
@@ -431,20 +445,9 @@ Pietro Franceschi, <u>**Yonghui Dong**</u>, Kerstin Strupat, Urska Vrhovsek, Ful
 
 Software {data-icon=cubes}
 --------------------------------------------------------------------------------
+### 01. Miso
 
-### 01. MSbox
-
-A series of common mass spectrometry tools. It allows checking element isotopes, calculating (isotope labelled) exact monoisitopic mass, m/z values and mass accuracy, and inspecting possible contaminant mass peaks, examining possible adducts in electrospray ionization (ESI) and Matrix-Assisted Laser Desorption Ionization (MALDI) ion sources.
-
-N/A
-
-N/A
-
-[GitHub](https://github.com/YonghuiDong/MSbox)
-
-### 02. Miso
-
-An efficient tool for fishing out labeled molecules from single, dual or multiple isotope labeling experiment.
+An R package for automated and efficient data analysis workflow to detect the complete repertoire of labeled molecules from multiple-precursor-based labeling experiments.
 
 N/A
 
@@ -452,9 +455,9 @@ N/A
 
 [GitHub](https://github.com/YonghuiDong/Miso), [Scholar](https://doi.org/10.1093/bioinformatics/btz092)
 
-### 03. CCWeights
+### 02. CCWeights
 
-The accuracy of any analytical method highly depends on the selection of an appropriate calibration model. CCWeights is designed to automatically assess & select the best weighting factors (WF) for accurate metabolite quantification using the linear calibration curve.
+An R package and web app for assessing and selecting the best weighting factors (WF) for linear calibration curve-based metabolite quantification.
 
 N/A
 
@@ -462,15 +465,36 @@ N/A
 
 [GitHub](https://github.com/YonghuiDong/CCWeights), [Scholar](https://doi.org/10.1093/bioadv/vbab029)
 
-### 04. RawHummus
+### 03. RawHummus
 
-Robust and reproducible data is essential to ensure high-quality results for metabolomics studies where detector sensitivity drifts, retention time, and mass accuracy shifts frequently occur. RawHummus is designed to automatically detect measurement bias &  verify system consistency.
+An R package and shiny web app for raw data quality control (QC) in metabolomics studies. It generates a comprehensive QC report that enables quick and effortless evaluation of instrument performance and metabolomics data quality.
 
 N/A
 
 N/A
 
 [GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
+
+### 04. MetaboReport
+
+An R package and shiny web app for raw data quality control (QC) in metabolomics studies. It generates a comprehensive QC report that enables quick and effortless evaluation of instrument performance and metabolomics data quality.
+
+N/A
+
+N/A
+
+[GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
+
+### 05. ShinyCardinal
+
+An R package and shiny web app for raw data quality control (QC) in metabolomics studies. It generates a comprehensive QC report that enables quick and effortless evaluation of instrument performance and metabolomics data quality.
+
+N/A
+
+N/A
+
+[GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
+
 
 Posters & Talks {data-icon=tv}
 --------------------------------------------------------------------------------
