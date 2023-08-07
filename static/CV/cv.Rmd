@@ -41,7 +41,9 @@ Research Interests {#interest}
 
 <i class="fa fa-angle-right"></i> Metabolomics
 
-<i class="fa fa-angle-right"></i> Chemoinformatics
+<i class="fa fa-angle-right"></i> Stable isotope labeling
+
+<i class="fa fa-angle-right"></i> Bioinformatics
 
 
 Skills {#skills}
@@ -176,19 +178,29 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
-### 26. Parallel evolution of cannabinoid biosynthesis
+### 27. A complete prostaglandin pathway from synthesis to inactivation in the oral gland of the jawless vertebrate lamprey, Lethenteron camtschaticum
 
-Natur Plants, 1-15
+Developmental & Comparative Immunology
 
 N/A
 
 2023
 
+Wang, Yaocen, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Yimu Luan, Qingwei Li, Yue Pang, Feng Sun, and Meng Gou
+
+### 26. Parallel evolution of cannabinoid biosynthesis
+
+Nature Plants, 1-15
+
+N/A
+
+N/A
+
 Paula Berman, Luis Alejandro de Haro, Adam Jozwiak, Sayantan Panda, Zoe Pinkas, <u>**Yonghui Dong**</u>, Jelena Cveticanin, Ranjit Barbole, Rotem Livne, Tali Scherf, Eyal Shimoni, Smadar Levin-Zaidman, Nili Dezorella, Ekaterina Petrovich-Kopitman, Sagit Meir, Ilana Rogachev, Prashant D Sonawane, Asaph Aharoni
 
 ### 25. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging
 
-Analytical Chemistry
+Analytical Chemistry, 1652–1662
 
 N/A
 
@@ -477,23 +489,21 @@ N/A
 
 ### 04. MetaboReport
 
-An R package and shiny web app for raw data quality control (QC) in metabolomics studies. It generates a comprehensive QC report that enables quick and effortless evaluation of instrument performance and metabolomics data quality.
+An R package and shiny web app for metabolomics data analysis.
 
 N/A
 
 N/A
 
-[GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
 
 ### 05. ShinyCardinal
 
-An R package and shiny web app for raw data quality control (QC) in metabolomics studies. It generates a comprehensive QC report that enables quick and effortless evaluation of instrument performance and metabolomics data quality.
+An R package and shiny web app for mass spectrometry imaging data analysis.
 
 N/A
 
 N/A
 
-[GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
 
 
 Posters & Talks {data-icon=tv}
