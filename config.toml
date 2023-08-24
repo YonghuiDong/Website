@@ -121,9 +121,8 @@ footnotereturnlinkcontents = "↩"
     ordered = false
     startLevel = 2
  
-[params.page.comment]
+[params.giscus]
   enable = true
-[params.page.comment.giscus]
   src="https://giscus.app/client.js"
   data-repo="YonghuiDong/Website"
   data-repo-id="MDEwOlJlcG9zaXRvcnkzMzY3MzM3Njg="
