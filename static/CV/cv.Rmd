@@ -176,7 +176,7 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
-### 28. Spatial Metabolomics Reveals the Multifaceted Nature of Lamprey Buccal Gland and Its Diverse Mechanisms for Blood-Feeding
+### 29. Spatial Metabolomics Reveals the Multifaceted Nature of Lamprey Buccal Gland and Its Diverse Mechanisms for Blood-Feeding
 
 Communications Biology, 6, 881
 
@@ -186,7 +186,7 @@ N/A
 
 Meng Gou, Xuyuan Duan, Jun Li, Yaocen Wang, Qingwei Li, Yue Pang, <u>**Yonghui Dong**</u> (corresponding author)
 
-### 27. A complete prostaglandin pathway from synthesis to inactivation in the oral gland of the jawless vertebrate lamprey, Lethenteron camtschaticum
+### 28. A complete prostaglandin pathway from synthesis to inactivation in the oral gland of the jawless vertebrate lamprey, Lethenteron camtschaticum
 
 Developmental & Comparative Immunology
 
@@ -196,7 +196,7 @@ N/A
 
 Wang, Yaocen, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Yimu Luan, Qingwei Li, Yue Pang, Feng Sun, and Meng Gou
 
-### 26. Parallel evolution of cannabinoid biosynthesis
+### 27. Parallel evolution of cannabinoid biosynthesis
 
 Nature Plants, 1-15
 
@@ -206,7 +206,7 @@ N/A
 
 Paula Berman, Luis Alejandro de Haro, Adam Jozwiak, Sayantan Panda, Zoe Pinkas, <u>**Yonghui Dong**</u>, Jelena Cveticanin, Ranjit Barbole, Rotem Livne, Tali Scherf, Eyal Shimoni, Smadar Levin-Zaidman, Nili Dezorella, Ekaterina Petrovich-Kopitman, Sagit Meir, Ilana Rogachev, Prashant D Sonawane, Asaph Aharoni
 
-### 25. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging
+### 26. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging
 
 Analytical Chemistry, 1652–1662
 
@@ -217,7 +217,7 @@ N/A
 <u>**Yonghui Dong**</u>, Nir Shachaf, Liron Feldberg, Ilana Rogachev, Uwe Heinig, Asaph Aharoni
 
 
-### 24. Image to insight: exploring natural products through mass spectrometry imaging
+### 25. Image to insight: exploring natural products through mass spectrometry imaging
 
 Natural product reports, 7, 1510-1530
 
@@ -228,7 +228,7 @@ N/A
 <u>**Yonghui Dong**</u>, Asaph Aharoni
 
 
-### 23. TMT-based quantitative proteomics reveals protein biomarkers from cultured Pacific abalone (Haliotis discus hannai) in different regions
+### 24. TMT-based quantitative proteomics reveals protein biomarkers from cultured Pacific abalone (Haliotis discus hannai) in different regions
 
 Food Chemistry: X, 100355
 
@@ -239,7 +239,7 @@ N/A
 YimuLuan, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Xiuli Wang, Yue Pang, Qingwei Li, MengGou
 
 
-### 22. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit
+### 23. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit
 
 Horticulture Research, doi: 10.1093/hr/uhac092
 
@@ -249,7 +249,7 @@ N/A
 
 Gulab Chand Arya,  <u>**Yonghui Dong**</u> (co-first author),  Uwe Heinig,  Nir Shahaf,  Yana Kazachkova, Elinor Aviv-Sharon,  Gal Nomberg,  Ofir Marinov,  Ekaterina Manasherova,  Asaph Aharoni, Hagai Cohen
 
-### 21. Quantitative Trait Loci Mapping and Identification of Candidate Genes Linked to Fruit Acidity in Apricot Q13 (_Prunus armeniaca L._)
+### 22. Quantitative Trait Loci Mapping and Identification of Candidate Genes Linked to Fruit Acidity in Apricot Q13 (_Prunus armeniaca L._)
 
 Frontiers in Plant Science, doi: 10.3389/fpls.2022.838370
 
@@ -258,6 +258,16 @@ N/A
 N/A
 
 Luca Dondini, Cecilia Domenichini, <u>**Yonghui Dong**</u>, Fabio Gennari, Daniele Bassi, Stefano Foschi, Martina Lama, Marco Adami, Paolo De Franceschi, Claudia Cervellati, Lorenzo Bergonzoni, Sara Alessandri, Stefano Tartarini
+
+### 21. Saliva metabolome alterations after acute stress
+
+Scientific Reports, 12, 18470
+
+N/A
+
+N/A
+
+Liat Morgan, Rune Isak Dupont Birkler, Shira Shaham-Niv, <u>**Yonghui Dong**</u>, Tal Wachsman, Lior Carmi, Boris Yakobson, Lihi Adler-Abramovich, Hagit Cohen, Joseph Zohar, Melissa Bateson, Ehud Gazit
 
 ### 20. RawHummus: an R Shiny App for Automated Raw Data Quality Control in Metabolomics
 
