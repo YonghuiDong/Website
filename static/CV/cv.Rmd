@@ -55,8 +55,6 @@ Skills {#skills}
 
 <i class="fa fa-angle-right"></i> Python (7/10)
 
-<i class="fa fa-angle-right"></i> MATLAB (7/10)
-
 <i class="fa fa-angle-right"></i> HTML/CSS (7/10)
 
 <i class="fa fa-angle-right"></i> Git/GitHub (8/10)
@@ -178,13 +176,23 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
+### 28. Spatial Metabolomics Reveals the Multifaceted Nature of Lamprey Buccal Gland and Its Diverse Mechanisms for Blood-Feeding
+
+Communications Biology, 6, 881
+
+N/A
+
+2023
+
+Meng Gou, Xuyuan Duan, Jun Li, Yaocen Wang, Qingwei Li, Yue Pang, <u>**Yonghui Dong**</u> (corresponding author)
+
 ### 27. A complete prostaglandin pathway from synthesis to inactivation in the oral gland of the jawless vertebrate lamprey, Lethenteron camtschaticum
 
 Developmental & Comparative Immunology
 
 N/A
 
-2023
+N/A
 
 Wang, Yaocen, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Yimu Luan, Qingwei Li, Yue Pang, Feng Sun, and Meng Gou
 
