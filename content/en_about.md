@@ -13,7 +13,7 @@ disable_comments: true
 
 - <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
-- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
+- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/Yonghui_Dong)
 
 
 ## Blog

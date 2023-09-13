@@ -15,7 +15,7 @@ disable_highlight: true
 
 - <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
-- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/YH_Dong)
+- <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/Yonghui_Dong)
 
 - <i class="fa fa-weixin" aria-hidden="true"></i>: [微信](/img/wechat.png)
 
