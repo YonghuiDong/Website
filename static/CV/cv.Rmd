@@ -176,6 +176,107 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
+### 39. Triple labeling of metabolites for metabolome analysis (TLEMMA): a stable isotope labeling approach for metabolite identification and network reconstruction
+
+The Plant Journal, 123(1), p.e70333
+
+N/A
+
+2025
+
+<u>**Yonghui Dong**</u>, Liron Feldberg, Yi Wang, Uwe Heinig, Ilana Rogachev, and Asaph Aharoni.
+
+### 38. AlphaFold‐Guided Bespoke Gene Editing Enhances Field‐Grown Soybean Oil Contents
+
+Advanced Science, 12(23), p.2500290
+
+N/A
+
+N/A
+
+Wang, Jie, Li Zhang, Shoudong Wang, Xin Wang, Suning Li, Pingping Gong, Mengyan Bai, <u>**Yonghui Dong**</u>,..., Yuefeng Guan.
+
+### 37. Triterpenoid saponins in tea plants: A spatial and metabolic analysis using UPLC-QTOFMS, molecular networking, and DESI-MSI
+
+Food Chemistry 475 (2025): 143323
+
+N/A
+
+N/A
+
+Du, Zhenghua, Ying Zhou, Shuang Guo, <u>**Yonghui Dong**</u>, Yongquan Xu, and Xiaomin Yu.
+
+### 36. Genetic control over biogenic crystal morphogenesis in zebrafish
+
+Nature chemical biology, 21(3), pp.383-392
+
+N/A
+
+N/A
+
+Deis, R., Lerer-Goldshtein, T., Baiko, O., Eyal, Z., Brenman-Begin, D., Goldsmith, M., Kaufmann, S., Heinig, U., <u>**Yonghui Dong**</u>, Lushchekina, S. and Varsano, N.,
+
+### 35. A cellulose synthase–like protein governs the biosynthesis of Solanum alkaloids
+
+Science, 386(6728), p.eadq5721
+
+N/A
+
+2024
+
+Jozwiak, Adam, Sayantan Panda, Ryota Akiyama, Ayano Yoneda, Naoyuki Umemoto, Kazuki Saito, Shuhei Yasumoto, <u>**Yonghui Dong**</u> , .., Asaph Aharoni
+
+
+### 34. Metabolite Annotation through Stable Isotope Labeling
+
+TrAC Trends in Analytical Chemistry, 181, p.118037
+
+N/A
+
+N/A
+
+<u>**Yonghui Dong**</u>, Liron Feldberg, Asaph Aharoni, and Uwe Heinig
+
+### 33. A Comprehensive Spatially Resolved Metabolomics Dataset for Lampreys
+
+Scientific Data 11, no. 1: 1075
+
+N/A
+
+N/A
+
+Gou, Meng, Xiaxia Wang, Xuyuan Duan, Yaocen Wang, Yue Pang, <u>**Yonghui Dong**</u> (corresponding author)
+
+### 32.The biosynthetic pathway of the hallucinogen mescaline and its heterologous reconstruction
+
+Molecular Plant, 17(7), pp.1129-1150
+
+N/A
+
+N/A
+
+Berman, P., de Haro, L. A., Cavaco, A. R., Panda, S., <u>**Yonghui Dong**</u>, Kuzmich, N., ... & Aharoni, A. 
+
+### 31. New wine in an old bottle: ABCB19, known as auxin exporter, also exports brassinosteroids
+
+The Innovation Life, 2(2), p.100072
+
+N/A
+
+N/A
+
+<u>**Yonghui Dong**</u>, Ning Su, and Yuqin Zhang
+
+### 30. MetaboReport: from metabolomics data analysis to comprehensive reporting
+
+Bioinformatics, 40(6), p.btae373
+
+N/A
+
+N/A
+
+<u>**Yonghui Dong**</u>, and Sergey Malitsky.
+
 ### 29. Spatial Metabolomics Reveals the Multifaceted Nature of Lamprey Buccal Gland and Its Diverse Mechanisms for Blood-Feeding
 
 Communications Biology, 6, 881
@@ -526,6 +627,22 @@ N/A
 
 Posters & Talks {data-icon=tv}
 --------------------------------------------------------------------------------
+### ShinyCardinal: an Comprehensive Platform for Mass Spectrometry Imaging Data Analysis (Invited Speaker)
+
+The Second International Plant SpatioTemporal Omics Research Conference (STOC Plant 2025) (Beijing, China)
+
+N/A
+
+2025
+
+### The use of Stable Isotope Lebeling in Plant Metabolomics (Invited Speaker)
+
+Frontiers in Biology Advances Forum (Chongqing, China)
+
+N/A
+
+N/A
+
 ### How vampires suck blood? (Talk)
 
 First Israel Metabolomics Meeting (Israel)
@@ -598,46 +715,3 @@ N/A
 
 2012
 
-
-Honors & Awards {data-icon=award}
---------------------------------------------------------------------------------
-
-### COST Action FA1101 trainee fellowship in saffronomics, Spain
-
-N/A
-
-N/A
-
-2014
-
-### Trento University PhD scholarship, Italy
-
-N/A
-
-N/A
-
-2011
-
-### FEM GMPF scholarship, Italy
-
-N/A
-
-N/A
-
-2010
-
-### Erasmus Mundus Scholarship, European Union
-
-N/A
-
-N/A
-
-2008
-
-### Undergraduate Mathematical Modeling Contest, First Prize, China
-
-N/A
-
-N/A
-
-2005
