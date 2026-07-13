@@ -13,76 +13,66 @@ footnotereturnlinkcontents = "↩"
     cn = "/cn/:year/:slug/"
     en = "/en/:year/:slug/"
     
-[[menu.main]]
-    name = "About"
-    url = "/en/about/"
-    weight = 1
+# [[menu.main]]
+#     name = "About"
+#     url = "/en/about/"
+#     weight = 1
+
+# [[menu.main]]
+#     name = "Research"
+#     url = "/research/"
+#     weight = 2
+
+# [[menu.en]]
+#     name = "Home"
+#     url = "/"
+#     weight = 1
+#
+# [[menu.en]]
+#     name = "Posts"
+#     url = "/en/"
+#     weight = 2
+
+
+# [[menu.en]]
+#     name = "About"
+#     url = "/en/about/"
+#     weight = 3
+#
+# [[menu.en]]
+#     name = "Research"
+#     url = "/research/"
+#     weight = 4
+
+# [[menu.en]]
+#     name = "中文"
+#     url = "/cn/"
+#     weight = 4
 
 [[menu.main]]
-    name = "Research"
-    url = "/research/"
-    weight = 2
-
-[[menu.en]]
-    name = "Home"
-    url = "/"
-    weight = 1
-    
-[[menu.en]]
-    name = "Posts"
-    url = "/en/"
-    weight = 2
-
-
-[[menu.en]]
-    name = "About"
-    url = "/en/about/"
-    weight = 3
-    
-[[menu.en]]
-    name = "Research"
-    url = "/research/"
-    weight = 4
-
-[[menu.en]]
-    name = "中文"
-    url = "/cn/"
-    weight = 4
-
-[[menu.main]]
-    name = "关于"
-    url = "/cn/about/"
-    weight = 3
-
-[[menu.main]]
-    name = "科研"
-    url = "/research/"
-    weight = 4
-
-[[menu.cn]]
     name = "首页"
     url = "/"
     weight = 1
     
-[[menu.cn]]
-    name = "关于"
-    url = "/cn/about/"
-    weight = 2
-
-[[menu.cn]]
+[[menu.main]]
     name = "博文"
     url = "/cn/"
+    weight = 2
+
+[[menu.main]]
+    name = "关于"
+    url = "/cn/about/"
     weight = 3
 
-[[menu.cn]]
-    name = "科研"
-    url = "/research"
-    weight = 4
+# [[menu.main]]
+#    name = "科研"
+#    url = "/research"
+#    weight = 1
 
-[[menu.cn]]
-    name = "English"
-    url = "/en/"
-    weight = 5
+# [[menu.cn]]
+#     name = "English"
+#     url = "/en/"
+#     weight = 5
 
 [params]
     description = ""
@@ -134,5 +124,3 @@ footnotereturnlinkcontents = "↩"
   data-theme="preferred_color_scheme"
   data-lang="en"
   crossorigin="anonymous"
-
-
