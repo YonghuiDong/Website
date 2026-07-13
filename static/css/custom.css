@@ -340,6 +340,111 @@ img {
   border-radius: 4px;
 }
 
+.main img[data-lightbox-image] {
+  cursor: zoom-in;
+  transition: border-color 160ms ease, box-shadow 160ms ease, transform 160ms ease;
+}
+
+.main img[data-lightbox-image]:hover,
+.main img[data-lightbox-image]:focus {
+  border-color: var(--accent);
+  box-shadow: 0 12px 30px rgba(24, 42, 54, 0.12);
+  outline: none;
+}
+
+body.has-image-lightbox {
+  overflow: hidden;
+}
+
+.image-lightbox {
+  align-items: center;
+  background: rgba(15, 27, 36, 0.88);
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  inset: 0;
+  justify-items: center;
+  opacity: 0;
+  padding: clamp(16px, 4vw, 48px);
+  pointer-events: none;
+  position: fixed;
+  transition: opacity 160ms ease;
+  z-index: 9999;
+}
+
+.image-lightbox.is-open {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.image-lightbox__image {
+  align-self: end;
+  background: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  border-radius: 6px;
+  box-sizing: border-box;
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.32);
+  max-height: 88vh;
+  max-width: min(96vw, 1400px);
+  object-fit: contain;
+}
+
+.image-lightbox__caption {
+  color: #eef7fa;
+  font-size: 0.9em;
+  line-height: 1.6;
+  margin-top: 12px;
+  max-width: min(92vw, 920px);
+  text-align: center;
+}
+
+.image-lightbox__close {
+  align-items: center;
+  background: rgba(255, 255, 255, 0.94);
+  border: 1px solid rgba(170, 190, 199, 0.68);
+  border-radius: 999px;
+  color: var(--ink);
+  cursor: pointer;
+  display: flex;
+  height: 42px;
+  justify-content: center;
+  position: fixed;
+  right: clamp(14px, 3vw, 30px);
+  top: clamp(14px, 3vw, 30px);
+  width: 42px;
+}
+
+.image-lightbox__close::before,
+.image-lightbox__close::after {
+  background: currentColor;
+  border-radius: 999px;
+  content: "";
+  height: 2px;
+  position: absolute;
+  width: 16px;
+}
+
+.image-lightbox__close::before {
+  transform: rotate(45deg);
+}
+
+.image-lightbox__close::after {
+  transform: rotate(-45deg);
+}
+
+.image-lightbox__close:hover,
+.image-lightbox__close:focus {
+  background: #fff;
+  border-color: var(--accent);
+  outline: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .main img[data-lightbox-image],
+  .image-lightbox {
+    transition: none;
+  }
+}
+
 figure {
   margin: 2.2em auto;
 }
