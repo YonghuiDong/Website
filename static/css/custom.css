@@ -259,6 +259,15 @@ blockquote {
   border-left: 4px solid var(--accent);
 }
 
+.main blockquote,
+.main blockquote p,
+.main blockquote ol,
+.main blockquote ul,
+.main blockquote li {
+  font-family: inherit;
+  font-size: 1em;
+}
+
 .main ul,
 .main ol {
   padding-left: 1.2em;
