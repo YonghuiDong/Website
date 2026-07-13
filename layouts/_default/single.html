@@ -2,5 +2,7 @@
 
 {{ if .Params.show_toc }} {{ .TableOfContents }} {{ end }}
 {{ .Content }}
+{{ if not .Params.disable_comments }}
 {{ partial "comments.html" . }}
+{{ end }}
 {{ partial "footer.html" . }}
