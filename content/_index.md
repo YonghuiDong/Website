@@ -3,8 +3,8 @@ title: Home
 disable_comments: true
 ---
 
-Hi there!
+欢迎。
 
-My name is Yonghui Dong. I am an analytical chemist. I am currently working at Weizmann Institute of Science, Israel. My research interests include mass spectrometry imaging, metabolomics and chemoinformatics. You can find more information about me [here](en/about), and my research [here](/research).
+我是董永辉，一名分析化学研究者。我的研究兴趣包括质谱成像、代谢组学、稳定同位素标记和化学信息学。
 
-On this website I present some of my scientific research, and write about things that I found interesting, mostly related to sciences and my life.
+这个网站用于整理我的科研工作、软件工具、学习笔记，以及一些与科学和生活有关的文字。更多信息可以看[关于](/cn/about/)和[博文](/cn/)。
