@@ -9,16 +9,13 @@ disable_highlight: true
 
 - 主要研究方向包括代谢成像学，代谢组学和化学计量学。
 
-- 平时爱好包括[跑步](/jogging)，爬山和撸猫。
+- 平时爱好包括爬山和撸猫。
 
 - <i class="far fa-user"></i>: [个人简历](/CV/YDong.pdf)
 
 - <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
 - <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/Yonghui_Dong)
-
-- <i class="fa fa-weixin" aria-hidden="true"></i>: [微信](/img/wechat.png)
-
 
 ## 博客
 
