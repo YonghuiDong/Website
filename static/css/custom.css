@@ -293,7 +293,7 @@ blockquote {
   border-bottom: none;
   color: var(--blue);
   font-size: 1.08em;
-  font-weight: 650;
+  font-weight: 600;
   line-height: 1.45;
 }
 
@@ -439,12 +439,13 @@ tr:nth-child(even) {
 }
 
 footer {
-  margin-top: 3em;
+  margin-top: 3.4em;
 }
 
 .copyright {
   color: var(--muted);
   font-size: 0.9em;
+  opacity: 0.82;
 }
 
 .copyright a {
