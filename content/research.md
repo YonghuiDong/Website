@@ -1,15 +1,15 @@
 ---
-title: "Research"
+title: "科研"
 slug: "research"
 disable_comments: true
 ---
+<p class="last-updated">Last updated: 2026-07-13</p>
 
 My research interests primarily lie in the following fields:
 
-
 {{< toc >}}
 
-For the complete publication list, please kindly refer to my [<i class="ai ai-google-scholar ai-2x"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
+For the complete publication list, please kindly refer to my [<i class="ai ai-google-scholar inline-icon"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
 
 ## 1. Mass Spectrometry Imaging {#1}
 
@@ -21,9 +21,10 @@ The most widely used MSI platforms are matrix-assisted laser desorption/ionizati
 
 After acquisition, the intensity of a selected m/z value is extracted from each spectrum and displayed as a pseudo-color image. This image shows the spatial distribution of the corresponding ion, which may be assigned to a specific compound. Because an image can be generated for every detected m/z peak, MSI is both untargeted and highly multiplexed, producing tens to thousands of molecular images in a single experiment. These images can also be overlaid or co-registered with optical images for detailed spatial analysis.
 
-<img src = "/img/MSI.jpg">
-
-<center>Fig.1 Schematic Overview of MALDI Imaging</center>
+<figure>
+  <img src="/img/MSI.jpg" alt="Schematic overview of MALDI mass spectrometry imaging">
+  <figcaption>Fig. 1. Schematic overview of MALDI imaging.</figcaption>
+</figure>
 
 
 ### 1.2 Representative publications
@@ -90,9 +91,10 @@ Both [mass spectrometry imaging (MSI)](#1) and [metabolomics](#2) studies genera
 
 Apart from routine MSI and metabolomics data analysis, I also actively developing novel data analysis methods and software tools (Fig. 4) in these two research fields. **R** and **Python** are my commonly used programming languages. 
 
-<img src = "/img/software.jpg">
-
-<center>Fig.4 Overview of my software tools </center>
+<figure>
+  <img src="/img/software.jpg" alt="Overview of software tools for MSI and metabolomics">
+  <figcaption>Fig. 4. Overview of my software tools.</figcaption>
+</figure>
 
 
 ### 4.2 Software I developed
@@ -115,4 +117,3 @@ Apart from routine MSI and metabolomics data analysis, I also actively developin
 - <u>**Dong, Y.**</u>, Wachsman, T., Morgan, L., Gazit, E. and Birkler, R.I.D., 2021. CCWeights: an R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve. **Bioinformatics Advances**, 1(1), p.vbab029. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/BI_BIA2021.pdf)
 
 - <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_BI2019.pdf)
-

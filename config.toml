@@ -60,13 +60,13 @@ footnotereturnlinkcontents = "↩"
     weight = 2
 
 [[menu.main]]
-    name = "关于"
-    url = "/cn/about/"
+    name = "科研"
+    url = "/research/"
     weight = 3
 
- [[menu.main]]
-    name = "科研"
-    url = "/research"
+[[menu.main]]
+    name = "关于"
+    url = "/cn/about/"
     weight = 4
 
 # [[menu.cn]]
