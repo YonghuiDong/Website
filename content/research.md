@@ -78,7 +78,7 @@ In global SIL, isotopes are supplied through major nutrient sources to label mos
 
 - <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_BI2019.pdf)
 
-- Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF]()
+- Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_AC2018.pdf)
 
 -----
 
