@@ -3,13 +3,13 @@ title: "科研"
 slug: "research"
 disable_comments: true
 ---
+
 <p class="last-updated">Last updated: 2026-07-13</p>
 
-My research interests primarily lie in the following fields:
 
 {{< toc >}}
 
-For the complete publication list, please kindly refer to my [<i class="ai ai-google-scholar inline-icon"></i>Google Scholar](https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en).
+<p class="scholar-note">For complete publication, please refer to my <a href="https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en"><i class="ai ai-google-scholar inline-icon"></i>Google Scholar</a>.</p>
 
 ## 1. Mass Spectrometry Imaging {#1}
 

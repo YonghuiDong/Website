@@ -517,6 +517,17 @@ video {
   margin: 0.25em 0;
 }
 
+body.research #TableOfContents::before {
+  content: "Research Area";
+  display: block;
+  margin-bottom: 0.65em;
+  color: var(--muted);
+  font-size: 0.82em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
 table {
   min-width: 50%;
   max-width: 100%;
