@@ -173,7 +173,7 @@ h6 {
 
 .main .title h1 {
   margin-bottom: 20px;
-  font-size: clamp(2rem, 4vw, 3.1rem);
+  font-size: clamp(1.8rem, 3.1vw, 2.65rem);
   font-weight: 730;
   text-align: left;
 }
@@ -195,13 +195,14 @@ h6 {
 
 h2 {
   margin-top: 2.4em;
-  font-size: 1.45em;
+  font-size: 1.34em;
   padding-top: 0.7em;
   border-top: 1px solid var(--rule);
 }
 
 h3 {
   margin-top: 1.9em;
+  font-size: 1.08em;
   color: var(--blue);
 }
 
@@ -440,7 +441,7 @@ footer {
   }
 
   .main .title h1 {
-    font-size: 2rem;
+    font-size: 1.75rem;
   }
 }
 
@@ -454,7 +455,7 @@ footer {
   }
 
   h2 {
-    font-size: 1.25em;
+    font-size: 1.18em;
   }
 
   h3,
