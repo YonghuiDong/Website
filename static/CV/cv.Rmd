@@ -130,6 +130,14 @@ Thesis: Effects of UV-C on the control of cucumber powdery mildew
 
 Research Experience {data-icon=flask data-concise=true}
 --------------------------------------------------------------------------------
+### Professor
+
+</br>
+Fujian Agriculture and Forestry University, China
+
+N/A
+
+Nay. 2024 - Now
 
 ### Researcher
 
@@ -138,7 +146,7 @@ Mass Spectrometry Imaging Unit, Weizmann Institute of Science, Israel
 
 N/A
 
-June. 2022 - Now
+June. 2022 - April. 2024
 
 ### Researcher
 
@@ -176,29 +184,35 @@ Supervisor: Prof.Guella Graziano
 
 Publications {data-icon=file}
 -------------------------------------------------------------------------------
-### 39. Triple labeling of metabolites for metabolome analysis (TLEMMA): a stable isotope labeling approach for metabolite identification and network reconstruction
-
-The Plant Journal, 123(1), p.e70333
+### 40. Complete biosynthesis of psychedelic tryptamines from three kingdoms in plants
+Science Advances 12 (14), eaeb3034
 
 N/A
 
-2025
+2026
+
+Paula Berman, Janka Höfer, Herschel Mehlman, Efrat Almekias-Siegl, Olga Khersonsky, <u>**Yonghui Dong**</u>, Uwe Heinig, Liron Sulimani, Let Kho Hao, Shahar Cohen, Yoav Peleg, Sagit Meir, Ilana Rogachev, David Meiri, Sarel J Fleishman, Asaph Aharoni
+
+### 39. Triple labeling of metabolites for metabolome analysis (TLEMMA): a stable isotope labeling approach for metabolite identification and network reconstruction
+The Plant Journal 123 (1), e70333
+
+N/A
+
+N/A
 
 <u>**Yonghui Dong**</u>, Liron Feldberg, Yi Wang, Uwe Heinig, Ilana Rogachev, and Asaph Aharoni.
 
 ### 38. AlphaFold‐Guided Bespoke Gene Editing Enhances Field‐Grown Soybean Oil Contents
-
-Advanced Science, 12(23), p.2500290
-
-N/A
+Advanced Science 12 (23), 2500290
 
 N/A
 
-Wang, Jie, Li Zhang, Shoudong Wang, Xin Wang, Suning Li, Pingping Gong, Mengyan Bai, <u>**Yonghui Dong**</u>,..., Yuefeng Guan.
+N/A
+
+Jie Wang, Li Zhang, Shoudong Wang, Xin Wang, Suning Li, Pingping Gong, Mengyan Bai, Arnav Paul, Nathan Tvedt, Hengrui Ren, Maoxiang Yang, Zhihui Zhang, Shaodong Zhou, Jiayi Sun, Xianjin Wu, Huaqin Kuang, Zhenghua Du, <u>**Yonghui Dong**</u>, Xiaolei Shi, Meina Li, Diwakar Shukla, Long Yan, Yuefeng Guan
 
 ### 37. Triterpenoid saponins in tea plants: A spatial and metabolic analysis using UPLC-QTOFMS, molecular networking, and DESI-MSI
-
-Food Chemistry 475 (2025): 143323
+Food Chemistry 475, 143323
 
 N/A
 
@@ -207,29 +221,26 @@ N/A
 Du, Zhenghua, Ying Zhou, Shuang Guo, <u>**Yonghui Dong**</u>, Yongquan Xu, and Xiaomin Yu.
 
 ### 36. Genetic control over biogenic crystal morphogenesis in zebrafish
-
-Nature chemical biology, 21(3), pp.383-392
-
-N/A
+Nature Chemical Biology 21 (3), 383-392
 
 N/A
+
+2025
 
 Deis, R., Lerer-Goldshtein, T., Baiko, O., Eyal, Z., Brenman-Begin, D., Goldsmith, M., Kaufmann, S., Heinig, U., <u>**Yonghui Dong**</u>, Lushchekina, S. and Varsano, N.,
 
 ### 35. A cellulose synthase–like protein governs the biosynthesis of Solanum alkaloids
-
-Science, 386(6728), p.eadq5721
+Science 386 (6728), eadq5721
 
 N/A
 
-2024
+N/A
 
-Jozwiak, Adam, Sayantan Panda, Ryota Akiyama, Ayano Yoneda, Naoyuki Umemoto, Kazuki Saito, Shuhei Yasumoto, <u>**Yonghui Dong**</u> , .., Asaph Aharoni
+Adam Jozwiak, Sayantan Panda, Ryota Akiyama, Ayano Yoneda, Naoyuki Umemoto, Kazuki Saito, Shuhei Yasumoto, Toshiya Muranaka, Sachin A Gharat, Yana Kazachkova, <u>**Yonghui Dong**</u>, Shlomy Arava, Inna Goliand, Reinat Nevo, Ilana Rogachev, Sagit Meir, Masaharu Mizutani, Asaph Aharoni
 
 
 ### 34. Metabolite Annotation through Stable Isotope Labeling
-
-TrAC Trends in Analytical Chemistry, 181, p.118037
+TrAC Trends in Analytical Chemistry 181, 118037
 
 N/A
 
@@ -238,8 +249,7 @@ N/A
 <u>**Yonghui Dong**</u>, Liron Feldberg, Asaph Aharoni, and Uwe Heinig
 
 ### 33. A Comprehensive Spatially Resolved Metabolomics Dataset for Lampreys
-
-Scientific Data 11, no. 1: 1075
+Scientific Data 11 (1), 1075
 
 N/A
 
@@ -247,19 +257,17 @@ N/A
 
 Gou, Meng, Xiaxia Wang, Xuyuan Duan, Yaocen Wang, Yue Pang, <u>**Yonghui Dong**</u> (corresponding author)
 
-### 32.The biosynthetic pathway of the hallucinogen mescaline and its heterologous reconstruction
-
-Molecular Plant, 17(7), pp.1129-1150
-
-N/A
+### 32. The biosynthetic pathway of the hallucinogen mescaline and its heterologous reconstruction
+Molecular Plant 17 (7), 1129-1150
 
 N/A
 
-Berman, P., de Haro, L. A., Cavaco, A. R., Panda, S., <u>**Yonghui Dong**</u>, Kuzmich, N., ... & Aharoni, A. 
+N/A
+
+Paula Berman, Luis Alejandro de Haro, Ana-Rita Cavaco, Sayantan Panda, <u>**Yonghui Dong**</u>, Nikolay Kuzmich, Gabriel Lichtenstein, Yoav Peleg, Hila Harat, Adam Jozwiak, Jianghua Cai, Uwe Heinig, Sagit Meir, Ilana Rogachev, Asaph Aharoni
 
 ### 31. New wine in an old bottle: ABCB19, known as auxin exporter, also exports brassinosteroids
-
-The Innovation Life, 2(2), p.100072
+The Innovation Life 2 (2), 100072-1-100072-2
 
 N/A
 
@@ -268,28 +276,25 @@ N/A
 <u>**Yonghui Dong**</u>, Ning Su, and Yuqin Zhang
 
 ### 30. MetaboReport: from metabolomics data analysis to comprehensive reporting
-
-Bioinformatics, 40(6), p.btae373
-
-N/A
+Bioinformatics 40 (6), btae373
 
 N/A
+
+2024
 
 <u>**Yonghui Dong**</u>, and Sergey Malitsky.
 
 ### 29. Spatial Metabolomics Reveals the Multifaceted Nature of Lamprey Buccal Gland and Its Diverse Mechanisms for Blood-Feeding
-
-Communications Biology, 6, 881
+Communications Biology 6 (1), 881
 
 N/A
 
-2023
+N/A
 
 Meng Gou, Xuyuan Duan, Jun Li, Yaocen Wang, Qingwei Li, Yue Pang, <u>**Yonghui Dong**</u> (corresponding author)
 
 ### 28. A complete prostaglandin pathway from synthesis to inactivation in the oral gland of the jawless vertebrate lamprey, Lethenteron camtschaticum
-
-Developmental & Comparative Immunology
+Developmental & Comparative Immunology 148, 104903
 
 N/A
 
@@ -298,8 +303,7 @@ N/A
 Wang, Yaocen, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Yimu Luan, Qingwei Li, Yue Pang, Feng Sun, and Meng Gou
 
 ### 27. Parallel evolution of cannabinoid biosynthesis
-
-Nature Plants, 1-15
+Nature Plants 9 (5), 817-831
 
 N/A
 
@@ -308,30 +312,27 @@ N/A
 Paula Berman, Luis Alejandro de Haro, Adam Jozwiak, Sayantan Panda, Zoe Pinkas, <u>**Yonghui Dong**</u>, Jelena Cveticanin, Ranjit Barbole, Rotem Livne, Tali Scherf, Eyal Shimoni, Smadar Levin-Zaidman, Nili Dezorella, Ekaterina Petrovich-Kopitman, Sagit Meir, Ilana Rogachev, Prashant D Sonawane, Asaph Aharoni
 
 ### 26. PICA: Pixel Intensity Correlation Analysis for Deconvolution and Metabolite Identification in Mass Spectrometry Imaging
-
-Analytical Chemistry, 1652–1662
-
-N/A
+Analytical Chemistry 95 (2), 1652-1662
 
 N/A
+
+2023
 
 <u>**Yonghui Dong**</u>, Nir Shachaf, Liron Feldberg, Ilana Rogachev, Uwe Heinig, Asaph Aharoni
 
 
 ### 25. Image to insight: exploring natural products through mass spectrometry imaging
-
-Natural product reports, 7, 1510-1530
+Natural Product Reports 39 (7), 1510-1530
 
 N/A
 
-2022
+N/A
 
 <u>**Yonghui Dong**</u>, Asaph Aharoni
 
 
 ### 24. TMT-based quantitative proteomics reveals protein biomarkers from cultured Pacific abalone (Haliotis discus hannai) in different regions
-
-Food Chemistry: X, 100355
+Food Chemistry: X 14, 100355
 
 N/A
 
@@ -341,8 +342,7 @@ YimuLuan, <u>**Yonghui Dong**</u> (co-first author), Xuyuan Duan, Xiuli Wang, Yu
 
 
 ### 23. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit
-
-Horticulture Research, doi: 10.1093/hr/uhac092
+Horticulture Research 9, uhac092
 
 N/A
 
@@ -350,9 +350,8 @@ N/A
 
 Gulab Chand Arya,  <u>**Yonghui Dong**</u> (co-first author),  Uwe Heinig,  Nir Shahaf,  Yana Kazachkova, Elinor Aviv-Sharon,  Gal Nomberg,  Ofir Marinov,  Ekaterina Manasherova,  Asaph Aharoni, Hagai Cohen
 
-### 22. Quantitative Trait Loci Mapping and Identification of Candidate Genes Linked to Fruit Acidity in Apricot Q13 (_Prunus armeniaca L._)
-
-Frontiers in Plant Science, doi: 10.3389/fpls.2022.838370
+### 22. Quantitative Trait Loci Mapping and Identification of Candidate Genes Linked to Fruit Acidity in Apricot (_Prunus armeniaca L._)
+Frontiers in Plant Science 13, 838370
 
 N/A
 
@@ -361,8 +360,7 @@ N/A
 Luca Dondini, Cecilia Domenichini, <u>**Yonghui Dong**</u>, Fabio Gennari, Daniele Bassi, Stefano Foschi, Martina Lama, Marco Adami, Paolo De Franceschi, Claudia Cervellati, Lorenzo Bergonzoni, Sara Alessandri, Stefano Tartarini
 
 ### 21. Saliva metabolome alterations after acute stress
-
-Scientific Reports, 12, 18470
+Scientific Reports 12 (1), 18470
 
 N/A
 
@@ -371,28 +369,25 @@ N/A
 Liat Morgan, Rune Isak Dupont Birkler, Shira Shaham-Niv, <u>**Yonghui Dong**</u>, Tal Wachsman, Lior Carmi, Boris Yakobson, Lihi Adler-Abramovich, Hagit Cohen, Joseph Zohar, Melissa Bateson, Ehud Gazit
 
 ### 20. RawHummus: an R Shiny App for Automated Raw Data Quality Control in Metabolomics
-
-Bioinformatics, btac040
-
-N/A
+Bioinformatics 38 (7), 2072-2074
 
 N/A
+
+2022
 
 <u>**Yonghui Dong**</u>, Yana Kazachkova, Meng Gou, Liat Morgan, Tal Wachsman, Ehud Gazit, Rune Isak Dupont Birkler
 
 ### 19. CCWeights: an R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve
-
-Bioinformatics Advances, 1(1), vbab029
+Bioinformatics Advances 1 (1), vbab029
 
 N/A
 
-2021
+N/A
 
 <u>**Yonghui Dong**</u>, Tal Wachsman, Liat Morgan, Ehud Gazit, Rune Isak Dupon Birkler
 
 ### 18. Characterization of the PRODUCTION OF ANTHOCYANIN PIGMENT 1 Arabidopsis Dominant Mutant using DLEMMA Dual Isotope Labeling Approach
-
-Phytochemistry, 186
+Phytochemistry 186, 112740
 
 N/A
 
@@ -401,50 +396,45 @@ N/A
 <u>**Yonghui Dong**</u>, Liron Feldberg, Ilana Rogachev, Asaph Aharoni
 
 ### 17. The GORKY glycoalkaloid transporter is indispensable for preventing tomato bitterness
-
-Nature Plant, 7, 468-480
-
-N/A
+Nature Plants 7 (4), 468-480
 
 N/A
+
+2021
 
 Yana Kazachkova, Itay Zemach, Sayantan Panda , Samuel Bocobza , Andrii Vainer, Ilana Rogachev, <u>**Yonghui Dong**</u>, Shifra Ben-Dor , Dorottya Veres , Christa Kanstrup , Sophie Konstanze Lambertz, Christoph Crocoll, Yangjie Hu, Eilon Shani, Simon Michaeli, Hussam Hassan Nour-Eldin, Dani Zamir, Asaph Aharoni
 
 
 ### 16. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox
+New Phytologist 228 (6), 1986-2002
 
-New Phytologist, 2020, 228:1986-2002.
+N/A
+
+N/A
+
+<u>**Yonghui Dong**</u>, Prashant Sonawane, Hagai Cohen, Guy Polturak, Liron Feldberg, Shelly Hen Avivi, Ilana Rogachev, Asaph Aharoni
+
+### 15. Rhizosphere microbiome mediates systemic root metabolite exudation by root-to-root signaling
+Proceedings of the National Academy of Sciences 117 (7), 3874-3883
 
 N/A
 
 2020
 
-<u>**Yonghui Dong**</u>, Prashant Sonawane, Hagai Cohen, Guy Polturak, Liron Feldberg, Shelly Hen Avivi, Ilana Rogachev, Asaph Aharoni
-
-### 15. Rhizosphere microbiome mediates systemic root metabolite exudation by root-to-root signaling
-
-Proceedings of the National Academy of Sciences, 2020, 7:3874-3883.
-
-N/A
-
-N/A
-
 Elisa Korenblum, <u>**Yonghui Dong**</u>, Jedrzej Szymanski, Sayantan Panda, Adam Jozwiak, Hassan Massalha, Sagit Meir, Ilana Rogachev, Asaph Aharoni
 
 
 ### 14. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis
-
-Bioinformatics, 2019, 35:3524-3526.
+Bioinformatics 35 (18), 3524-3526
 
 N/A
 
-2019
+N/A
 
 <u>**Yonghui Dong**</u>, Liron Feldberg, Asaph Aharoni
 
 ### 13. A Multilevel Study of Melon Fruit Reticulation Provides Insight into Skin Ligno-suberization Hallmarks
-
-Plant Physiology, 2019, 179:1486-1501.
+Plant Physiology 179 (4), 1486-1501
 
 N/A
 
@@ -453,60 +443,54 @@ N/A
 Hagai Cohen, <u>**Yonghui Dong**</u>, Jedrzej Szymanski, Justin Lashbrooke, Sagit Meir, Efrat Almekias-Siegl, Viktoria Valeska Zeisler-Diehl, Lukas Schreiber, Asaph Aharoni
 
 ### 12. In plaque-mass spectrometry imaging of a bloom-forming alga during viral infection reveals a metabolic shift towards odd-chain fatty acid lipids
-
-Nature Microbiology, 2019, 3:527-538.
-
-N/A
+Nature Microbiology 4 (3), 527-538
 
 N/A
+
+2019
 
 Guy Schleyer, Nir Shahaf, Carmit Ziv, <u>**Yonghui Dong**</u>, Roy A Meoded, Eric JN Helfrich, Daniella Schatz, Shilo Rosenwasser, Ilana Rogachev, Asaph Aharoni, Jörn Piel, Assaf Vardi
 
 
 ### 11. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction
+Analytical Chemistry 90 (17), 10231-10238
 
-Analytical Chemistry, 2018, 17:10231-10238.
+N/A
+
+N/A
+
+Liron Feldberg, <u>**Yonghui Dong</u>** (co-first author), Uwe Heinig, Ilana Rogachev, Asaph Aharoni
+
+### 10. Mapping of cell wall aromatic moieties and their effect on hygroscopic movement in the awns of stork’s bill
+Cellulose 25 (7), 3827-3841
 
 N/A
 
 2018
 
-Liron Feldberg, <u>**Yonghui Dong</u>** (co-first author), Uwe Heinig, Ilana Rogachev, Asaph Aharoni
-
-### 10. Mapping of cell wall aromatic moieties and their effect on hygroscopic movement in the awns of stork’s bill
-
-Cellulose, 2018, 25: 3827-3841.
-
-N/A
-
-N/A
-
 Yael Abraham, <u>**Yonghui Dong**</u>, Asaph Aharoni, Rivka Elbaum
 
 
 ### 09. TLC surface integrity affects the detection of alkali adduct ions in TLC-MALDI analysis
+Analytical and Bioanalytical Chemistry 409 (24), 5661-5666
 
-Analytical and Bioanalytical Chemistry, 2017, 409: 5661-5666.
+N/A
+
+N/A
+
+<u>**Yonghui Dong**</u>, Ruggero Ferrazza, Andrea Anesi, Graziano Guella, Pietro Franceschi
+
+### 08. Engineered gray mold resistance, antioxidant capacity, and pigmentation in betalain-producing crops and ornamentals
+Proceedings of the National Academy of Sciences 114 (34), 9062-9067
 
 N/A
 
 2017
 
-<u>**Yonghui Dong**</u>, Ruggero Ferrazza, Andrea Anesi, Graziano Guella, Pietro Franceschi
-
-### 08. Engineered gray mold resistance, antioxidant capacity, and pigmentation in betalain-producing crops and ornamentals
-
-Proceedings of the National Academy of Sciences, 2017, 14: 9062-9067.
-
-N/A
-
-N/A
-
 Guy Polturak, Noam Grossman, David Vela-Corcia, <u>**Yonghui Dong**</u>, Adi Nudel, Margarita Pliner, Maggie Levy, Ilana Rogachev, Asaph Aharoni
 
 ### 07. Impact of tissue surface properties on the desorption electrospray ionization imaging of organic acids in grapevine stem
-
-Rapid Communications in Mass Spectrometry, 2016, 30: 711-718.
+Rapid Communications in Mass Spectrometry 30 (6), 711-718
 
 N/A
 
@@ -515,18 +499,16 @@ N/A
 <u>**Yonghui Dong**</u>, Graziano Guella, Pietro Franceschi 
 
 ### 06. More than pictures: when MS imaging meets histology
-
-Trends in Plant Science, 2016, 21: 686-698.
+Trends in Plant Science 21 (8), 686-698
 
 N/A
 
-2016
+N/A
 
 <u>**Yonghui Dong**</u>, Bin Li, Asaph Aharoni     
 
 ### 05. Sample preparation for mass spectrometry imaging of plant tissues: a review
-
-Frontiers in plant science, 2016.
+Frontiers in Plant Science 7, 60
 
 N/A
 
@@ -535,8 +517,7 @@ N/A
 <u>**Yonghui Dong**</u>, Bin Li, Sergey Malitsky, Ilana Rogachev, Asaph Aharoni, Filip Kaftan, Aleš Svatoš, Pietro Franceschi
 
 ### 04. Identification of microRNAs and their targets associated with fruit-bagging and subsequent sunlight re-exposure in the “Granny Smith” apple exocarp using high-throughput sequencing
-
-Frontiers in plant science, 2016.
+Frontiers in Plant Science 7, 27
 
 N/A
 
@@ -545,18 +526,16 @@ N/A
 Dong Qu, Fei Yan, Rui Meng, Xiaobing Jiang, Huijuan Yang, Ziyi Gao, <u>**Yonghui Dong**</u>, Yazhou Yang, Zhengyang Zhao
 
 ### 03. Analytical capabilities of mass spectrometry imaging and its potential applications in food science
-
-Trends in Food Science & Technology, 2016, 47: 50-63.
-
-N/A
+Trends in Food Science & Technology 47, 50-63
 
 N/A
+
+2016
 
 Bin Li, Sage JB Dunham, <u>**Yonghui Dong**</u>, Sohee Yoon, Maomao Zeng, Jonathan V Sweedler
 
 ### 02. High production of small organic dicarboxylate dianions by DESI and ESI
-
-Journal of The American Society for Mass Spectrometry, 2015, 26: 386-389.
+Journal of The American Society for Mass Spectrometry 26 (3), 386-389
 
 N/A
 
@@ -565,64 +544,13 @@ N/A
 <u>**Yonghui Dong**</u>, Graziano Guella, Fulvio Mattivi, Pietro Franceschi
 
 ### 01. Combining intensity correlation analysis and MALDI imaging to study the distribution of flavonols and dihydrochalcones in Golden Delicious apples
-
-Journal of experimental botany, 2012, 63: 1123-1133.
+Journal of Experimental Botany 63 (3), 1123-1133
 
 N/A
 
 2012
 
 Pietro Franceschi, <u>**Yonghui Dong**</u>, Kerstin Strupat, Urska Vrhovsek, Fulvio Mattivi
-
-Software {data-icon=cubes}
---------------------------------------------------------------------------------
-### 01. Miso
-
-An R package for automated and efficient data analysis workflow to detect the complete repertoire of labeled molecules from multiple-precursor-based labeling experiments.
-
-N/A
-
-N/A
-
-[GitHub](https://github.com/YonghuiDong/Miso), [Scholar](https://doi.org/10.1093/bioinformatics/btz092)
-
-### 02. CCWeights
-
-An R package and web app for assessing and selecting the best weighting factors (WF) for linear calibration curve-based metabolite quantification.
-
-N/A
-
-N/A
-
-[GitHub](https://github.com/YonghuiDong/CCWeights), [Scholar](https://doi.org/10.1093/bioadv/vbab029)
-
-### 03. RawHummus
-
-An R package and shiny web app for raw data quality control (QC) in metabolomics studies. It generates a comprehensive QC report that enables quick and effortless evaluation of instrument performance and metabolomics data quality.
-
-N/A
-
-N/A
-
-[GitHub](https://github.com/YonghuiDong/RawHummus), [Scholar](https://doi.org/10.1093/bioinformatics/btac040)
-
-### 04. MetaboReport
-
-An R package and shiny web app for metabolomics data analysis.
-
-N/A
-
-N/A
-
-
-### 05. ShinyCardinal
-
-An R package and shiny web app for mass spectrometry imaging data analysis.
-
-N/A
-
-N/A
-
 
 
 Posters & Talks {data-icon=tv}
@@ -714,4 +642,3 @@ Ourense Conference on Imaging Mass Spectrometry (Spain)
 N/A
 
 2012
-
