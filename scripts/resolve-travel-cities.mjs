@@ -13,6 +13,9 @@ const coordinateFile = process.env.TRAVEL_COORDINATES_FILE ||
 const geocoderUrl = process.env.TRAVEL_GEOCODER_URL ||
   "https://nominatim.openstreetmap.org/search";
 const requestDelayMs = 1100;
+const geocoderCountryAliases = new Map([
+  ["palestine", "Palestinian Territories"]
+]);
 
 function normalizeKey(value) {
   return String(value || "")
@@ -123,6 +126,10 @@ function roundCoordinate(value) {
   return Math.round(Number(value) * 100) / 100;
 }
 
+function geocoderCountryName(country) {
+  return geocoderCountryAliases.get(normalizeKey(country)) || country;
+}
+
 function sleep(milliseconds) {
   return new Promise((resolve) => setTimeout(resolve, milliseconds));
 }
@@ -168,7 +175,7 @@ async function geocode(record) {
   url.searchParams.set("addressdetails", "1");
   url.searchParams.set("featureType", "settlement");
   url.searchParams.set("city", record.city);
-  url.searchParams.set("country", record.country);
+  url.searchParams.set("country", geocoderCountryName(record.country));
   if (record.region) url.searchParams.set("state", record.region);
 
   for (let attempt = 0; attempt < 2; attempt += 1) {

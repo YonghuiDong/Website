@@ -35,6 +35,13 @@
     "lng": 13.4
   },
   {
+    "city": "Bethlehem",
+    "country": "Palestine",
+    "lat": 31.7,
+    "lng": 35.21,
+    "source": "OpenStreetMap"
+  },
+  {
     "city": "Bologna",
     "country": "Italy",
     "lat": 44.5,
@@ -98,6 +105,13 @@
     "country": "Germany",
     "lat": 50.11,
     "lng": 8.68
+  },
+  {
+    "city": "Fuzhou",
+    "country": "China",
+    "lat": 26.08,
+    "lng": 119.29,
+    "source": "OpenStreetMap"
   },
   {
     "city": "Geneva",
