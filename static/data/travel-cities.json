@@ -145,6 +145,13 @@
     "kind": "Conference",
     "cities": ["Ourense"],
     "note": "Speaker at The Ourense Conference on Imaging Mass Spectrometry"
+  },
+     {
+    "country": "China",
+    "year": "2025",
+    "kind": "Conference",
+    "cities": ["Chongqing"],
+    "note": "Invited Speaker at ChongQing University"
   }
 
 

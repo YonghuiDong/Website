@@ -4,18 +4,18 @@ slug: "research"
 disable_comments: true
 ---
 
-<p class="last-updated">Last updated: 2026-07-13</p>
+<p class="last-updated">Last updated: 2026-07-27</p>
 
 
 {{< toc >}}
 
-<p class="scholar-note">For complete publication, please refer to my <a href="https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en"><i class="ai ai-google-scholar inline-icon"></i>Google Scholar</a>.</p>
+<p class="scholar-note">For a complete list of publications, please see my <a href="https://scholar.google.com/citations?user=qbNRJIkAAAAJ&hl=en"><i class="ai ai-google-scholar inline-icon"></i>Google Scholar profile</a>.</p>
 
 ## 1. Mass Spectrometry Imaging {#1}
 
 ### 1.1 Introduction
 
-Mass spectrometry imaging (MSI) is a label-free analytical technique that maps the identity, relative abundance, and spatial distribution of molecules directly in biological samples. Unlike histochemical staining, MSI does not require pre-selected targets, antibodies, or chemical labels. Its ability to combine chemical specificity with intuitive spatial visualization has made it increasingly popular.
+Mass spectrometry imaging (MSI) is a label-free analytical technique that maps the identity, relative abundance, and spatial distribution of molecules directly in biological samples. Unlike histochemical staining, MSI does not require preselected targets, antibodies, or chemical labels. Its ability to combine chemical specificity with intuitive spatial visualization has made it increasingly popular.
 
 The most widely used MSI platforms are matrix-assisted laser desorption/ionization (MALDI), desorption electrospray ionization (DESI), and secondary ion mass spectrometry (SIMS). Although they differ in spatial resolution, chemical coverage, and acquisition speed, all scan a probe across the sample surface while recording a mass spectrum at each location (Fig. 1).
 
@@ -35,7 +35,7 @@ After acquisition, the intensity of a selected m/z value is extracted from each 
 
 - <u>**Dong, Y.**</u>, Sonawane, P., Cohen, H., Polturak, G., Feldberg, L., Avivi, S.H., Rogachev, I. and Aharoni, A., 2020. High mass resolution, spatial metabolite mapping enhances the current plant gene and pathway discovery toolbox. **New Phytologist**, 228(6), pp.1986-2002. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_NP2022.pdf)
 
-- <u>**Dong, Y.**</u>., Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in plant science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_TIPS2016.pdf)
+- <u>**Dong, Y.**</u>, Li, B. and Aharoni, A., 2016. More than pictures: when MS imaging meets histology. **Trends in Plant Science**, 21(8), pp.686-698. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_TIPS2016.pdf)
 
 - <u>**Dong, Y.**</u>, Li, B., Malitsky, S., Rogachev, I., Aharoni, A., Kaftan, F., Svatoš, A. and Franceschi, P., 2016. Sample preparation for mass spectrometry imaging of plant tissues: a review. **Frontiers in Plant Science**, 7, p.60. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/MSI_FPLS2016.pdf)
 
@@ -44,9 +44,9 @@ After acquisition, the intensity of a selected m/z value is extracted from each 
 
 ## 2. Metabolomics {#2}
 
-### 2.1. Introduction
+### 2.1 Introduction
 
-Metabolomics uses analytical techniques to study small molecules, or metabolites, in biological samples. Three main strategies are commonly used:
+Metabolomics uses analytical techniques to study small molecules, or metabolites, in biological samples. Two main strategies are commonly used:
 
 Untargeted metabolomics aims to detect as many metabolites as possible without requiring prior knowledge of their identities. Results are usually semi-quantitative and reported as relative peak intensities or areas.
 
@@ -55,7 +55,7 @@ Targeted metabolomics measures a defined set of known metabolites, typically usi
 
 ### 2.2 Representative publications
 
-- Gou, M.,  Duan. X., Li, J., Wang, Y.,  Li, Q., Pang, Y.,  <u>**Dong, Y**</u> **(corresponding author)**., 2022. How do Vampires Suck Blood? <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/Metabolomics_lamprey2022.pdf)
+- Gou, M., Duan, X., Li, J., Wang, Y., Li, Q., Pang, Y., <u>**Dong, Y.**</u> **(corresponding author)**, 2022. How do Vampires Suck Blood? <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/Metabolomics_lamprey2022.pdf)
 
 - Arya, G.C., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Shahaf, N., Kazachkova, Y., Aviv-Sharon, E., Nomberg, G., Marinov, O., Manasherova, E., Aharoni, A. and Cohen, H., 2022. The metabolic and proteomic repertoires of periderm tissue in skin of the reticulated Sikkim cucumber fruit. **Horticulture Research**, 9. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/Metabolomics_HR2022.pdf)
 
@@ -65,13 +65,13 @@ Targeted metabolomics measures a defined set of known metabolites, typically usi
 
 ### 3.1 Introduction
 
-Stable isotopes have the same number of protons as common elements but differ in neutron number and mass. Consequently, labelled metabolites and their unlabelled counterparts generally behave similarly during liquid chromatography but can be distinguished by mass spectrometry. Stable isotope labeling (SIL) is widely used for metabolite identification, quantification, pathway analysis, and structural elucidation.
+Stable isotopes have the same number of protons as common elements but differ in neutron number and mass. Consequently, labeled metabolites and their unlabeled counterparts generally behave similarly during liquid chromatography but can be distinguished by mass spectrometry. Stable isotope labeling (SIL) is widely used for metabolite identification, quantification, pathway analysis, and structural elucidation.
 
-In global SIL, isotopes are supplied through major nutrient sources to label most endogenously produced metabolites. In tracer-based SIL, a specific labelled substrate is administered to track its incorporation, metabolic fate, and flux through selected pathways.
+In global SIL, isotopes are supplied through major nutrient sources to label most endogenously produced metabolites. In tracer-based SIL, a specific labeled substrate is administered to track its incorporation, metabolic fate, and flux through selected pathways.
 
-### 3.2 Representative Publications
+### 3.2 Representative publications
 
-- <u>**Dong, Y.**</u>, Feldberg, L., Wang, Y., Heinig, U., Rogachev, I., Aharoni, A., 2025. Triple labeling of metabolites for metabolome analysis (TLEMMA): a stable isotope labeling approach for metabolite identification and network reconstruction. **The Plant Journal**, 123(1),e70333. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_PJ2025.pdf)
+- <u>**Dong, Y.**</u>, Feldberg, L., Wang, Y., Heinig, U., Rogachev, I., Aharoni, A., 2025. Triple labeling of metabolites for metabolome analysis (TLEMMA): a stable isotope labeling approach for metabolite identification and network reconstruction. **The Plant Journal**, 123(1), e70333. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_PJ2025.pdf)
 
 - <u>**Dong, Y.**</u>, Feldberg, L., Aharoni, A., Heinig, U., 2024. Metabolite annotation through stable isotope labeling. **TrAC Trends in Analytical Chemistry**, 181. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_TrAC2024.pdf)
 
@@ -79,7 +79,7 @@ In global SIL, isotopes are supplied through major nutrient sources to label mos
 
 - <u>**Dong, Y.**</u>, Feldberg, L. and Aharoni, A., 2019. Miso: an R package for multiple isotope labeling assisted metabolomics data analysis. **Bioinformatics**, 35(18), pp.3524-3526. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_BI2019.pdf)
 
-- Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_AC2018.pdf)
+- Feldberg, L., <u>**Dong, Y.**</u> **(co-first author)**, Heinig, U., Rogachev, I. and Aharoni, A., 2018. DLEMMA-MS-imaging for identification of spatially localized metabolites and metabolic network map reconstruction. **Analytical Chemistry**, 90(17), pp.10231-10238. <i class="fa fa-file-pdf-o" aria-hidden="true"></i> [PDF](/pdf/SIL_AC2018.pdf)
 
 -----
 
@@ -87,9 +87,9 @@ In global SIL, isotopes are supplied through major nutrient sources to label mos
 
 ### 4.1 Introduction
 
-Both [mass spectrometry imaging (MSI)](#1) and [metabolomics](#2) studies generate increasingly complex data sets. Their comprehensive evaluation requires specialized and efficient data analysis approaches that involves cheminformatics, and statistics. 
+Both [mass spectrometry imaging (MSI)](#1) and [metabolomics](#2) studies generate increasingly complex datasets. Their comprehensive analysis requires specialized and efficient methods from chemoinformatics and statistics.
 
-Apart from routine MSI and metabolomics data analysis, I also actively developing novel data analysis methods and software tools (Fig. 4) in these two research fields. **R** and **Python** are my commonly used programming languages. 
+In addition to routine MSI and metabolomics data analysis, I actively develop new analytical methods and software tools for both fields (Fig. 4). I primarily use **R** and **Python**.
 
 <figure>
   <img src="/img/software.jpg" alt="Overview of software tools for MSI and metabolomics">
@@ -97,17 +97,17 @@ Apart from routine MSI and metabolomics data analysis, I also actively developin
 </figure>
 
 
-### 4.2 Software I developed
+### 4.2 Software I have developed
 
-- **MSbox** : A series of common mass spectrometry tools. It allows checking element isotopes, calculating (isotope labelled) exact monoisitopic mass, m/z values and mass accuracy, and inspecting possible contaminant mass peaks, examining possible adducts in electrospray ionization (ESI) and Matrix-Assisted Laser Desorption Ionization (MALDI) ion sources. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/MSbox)
+- **MSbox**: A collection of general-purpose mass spectrometry tools for checking elemental isotopes; calculating exact monoisotopic masses, m/z values, and mass accuracy, including for isotope-labeled compounds; inspecting potential contaminant peaks; and evaluating common adducts in electrospray ionization (ESI) and matrix-assisted laser desorption/ionization (MALDI). <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/MSbox)
 
-- **Miso**: An efficient tool for fishing out labeled molecules from single, dual or multiple isotope labeling experiment. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/Miso)
+- **Miso**: An efficient tool for identifying labeled molecules in single-, dual-, or multiple-isotope labeling experiments. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/Miso)
 
-- **CCWeights**: The accuracy of any analytical method highly depends on the selection of an appropriate calibration model. CCWeights is designed to automatically assess & select the best weighting factors (WF) for accurate metabolite quantification using the linear calibration curve. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/CCWeights)
+- **CCWeights**: The accuracy of an analytical method depends strongly on the selection of an appropriate calibration model. CCWeights automatically assesses and selects the best weighting factors for accurate metabolite quantification with linear calibration curves. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/CCWeights)
 
- - **RawHummus**: Robust and reproducible data is essential to ensure high-quality results for metabolomics studies where detector sensitivity drifts, retention time, and mass accuracy shifts frequently occur. RawHummus is designed to automatically detect measurement bias &  verify system consistency. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/RawHummus)
+- **RawHummus**: Reliable and reproducible data are essential for high-quality metabolomics studies because detector sensitivity, retention time, and mass accuracy can drift during acquisition. RawHummus automatically detects measurement bias and evaluates system consistency. <i class="fa fa-github" aria-hidden="true"></i> [GitHub](https://github.com/YonghuiDong/RawHummus)
  
-- **MetaboReport**: Provides a flexible and user-friendly workflow for data cleaning, pre-processing, statistical analysis, and reporting of metabolomics, lipidomics, and proteomics. (not published yet)
+- **MetaboReport**: A flexible and user-friendly workflow for data cleaning, preprocessing, statistical analysis, and reporting in metabolomics, lipidomics, and proteomics. (Under development.)
 
 
 ### 4.3 Representative publications

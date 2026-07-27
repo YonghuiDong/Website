@@ -86,6 +86,13 @@
     "lng": -87.63
   },
   {
+    "city": "Chongqing",
+    "country": "China",
+    "lat": 29.57,
+    "lng": 106.55,
+    "source": "OpenStreetMap"
+  },
+  {
     "city": "Copenhagen",
     "country": "Denmark",
     "lat": 55.68,
