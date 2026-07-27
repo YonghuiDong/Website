@@ -4,6 +4,7 @@
 
 [build.environment]
   HUGO_VERSION = "0.89.4"
+  NODE_VERSION = "24"
 
 [context.deploy-preview]
   command = "node scripts/resolve-travel-cities.mjs && hugo -b $DEPLOY_PRIME_URL --buildFuture"

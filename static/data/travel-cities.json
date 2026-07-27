@@ -96,6 +96,20 @@
     "kind": "Conference",
     "cities": ["Beijing"],
     "note": "Invited Speaker at the second International Plant SpatioTemporal Omics Research Conference 2025"
+  },
+     {
+    "country": "Ukraine",
+    "year": "2017",
+    "kind": "Travel",
+    "cities": ["Kyiv"],
+    "note": ""
+  },
+   {
+    "country": "Laos",
+    "year": "2024",
+    "kind": "Travel",
+    "cities": ["Vientiane"],
+    "note": ""
   }
 
 

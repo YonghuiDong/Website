@@ -166,6 +166,13 @@
     "source": "OpenStreetMap"
   },
   {
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "lat": 50.45,
+    "lng": 30.52,
+    "source": "OpenStreetMap"
+  },
+  {
     "city": "Kyoto",
     "country": "Japan",
     "lat": 35.01,
@@ -373,6 +380,13 @@
     "country": "Austria",
     "lat": 48.21,
     "lng": 16.37
+  },
+  {
+    "city": "Vientiane",
+    "country": "Laos",
+    "lat": 17.96,
+    "lng": 102.61,
+    "source": "OpenStreetMap"
   },
   {
     "city": "Washington",
