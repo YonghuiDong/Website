@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="{{ "/css/academicons.css" | relURL }}"  media="all"/>
 {{ if .Params.travel_map }}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-<link rel="stylesheet" href="{{ "/css/travel-map.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/travel-map.css" | relURL }}?v={{ md5 (readFile "static/css/travel-map.css") }}" />
 {{ end }}
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">

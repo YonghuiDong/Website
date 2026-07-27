@@ -8,9 +8,12 @@
   var summaryNode = document.getElementById("travel-map-summary");
   var filterNode = document.getElementById("travel-filter-group");
   var searchNode = document.getElementById("travel-search");
+  var paginationNode = document.getElementById("travel-pagination");
   var dataSource = shell.getAttribute("data-source") || "/data/travel-cities.json";
   var coordinateSource = shell.getAttribute("data-coordinate-source") || "/data/travel-city-coordinates.json";
   var activeKind = "all";
+  var currentPage = 1;
+  var pageSize = 9;
   var cityRecords = [];
   var coordinateIndex = { exact: {}, country: {}, cityOnly: {} };
   var markerByIndex = {};
@@ -285,6 +288,7 @@
     button.textContent = label;
     button.addEventListener("click", function () {
       activeKind = kind;
+      currentPage = 1;
       render();
     });
     return button;
@@ -360,11 +364,74 @@
     });
   }
 
-  function renderSummary(records) {
+  function paginationPages(pageCount) {
+    var pages = [];
+
+    for (var page = 1; page <= pageCount; page += 1) {
+      if (page === 1 || page === pageCount || Math.abs(page - currentPage) <= 1) {
+        pages.push(page);
+      } else if (pages[pages.length - 1] !== null) {
+        pages.push(null);
+      }
+    }
+
+    return pages;
+  }
+
+  function renderPagination(records, pageCount) {
+    if (!paginationNode) return;
+    paginationNode.innerHTML = "";
+    paginationNode.hidden = records.length <= pageSize;
+    if (paginationNode.hidden) return;
+
+    function addPageButton(label, page, ariaLabel, disabled, active) {
+      var button = document.createElement("button");
+      button.type = "button";
+      button.className = "travel-page-button" + (active ? " is-active" : "");
+      button.textContent = label;
+      button.disabled = disabled;
+      button.setAttribute("aria-label", ariaLabel);
+      button.title = ariaLabel;
+      if (active) button.setAttribute("aria-current", "page");
+
+      button.addEventListener("click", function () {
+        if (disabled || page === currentPage) return;
+        currentPage = page;
+        renderCards(records);
+        if (listNode) listNode.scrollIntoView({ block: "start" });
+      });
+
+      paginationNode.appendChild(button);
+    }
+
+    addPageButton("\u2039", currentPage - 1, "Previous page", currentPage === 1, false);
+
+    paginationPages(pageCount).forEach(function (page) {
+      if (page === null) {
+        var ellipsis = document.createElement("span");
+        ellipsis.className = "travel-page-ellipsis";
+        ellipsis.textContent = "\u2026";
+        ellipsis.setAttribute("aria-hidden", "true");
+        paginationNode.appendChild(ellipsis);
+        return;
+      }
+
+      addPageButton(String(page), page, "Page " + page, false, page === currentPage);
+    });
+
+    addPageButton("\u203a", currentPage + 1, "Next page", currentPage === pageCount, false);
+  }
+
+  function renderSummary(records, start, end) {
     if (!summaryNode) return;
 
     if (!cityRecords.length) {
       summaryNode.textContent = "No city entries yet. Add English city and country records to /data/travel-cities.json.";
+      return;
+    }
+
+    if (!records.length) {
+      summaryNode.textContent = "No cities match the current search or filter.";
       return;
     }
 
@@ -377,7 +444,20 @@
 
     summaryNode.textContent = mappedRecords.length + " mapped cities shown" +
       (countries.length ? " across " + countries.length + " countries or regions" : "") +
-      (missingCount ? ". " + missingCount + " entries need a city-center coordinate." : ". Coordinates are rounded before display.");
+      (missingCount ? ". " + missingCount + " entries need a city-center coordinate." : ". Coordinates are rounded before display.") +
+      " Showing " + (start + 1) + "-" + end + " of " + records.length + " cards.";
+  }
+
+  function renderCards(records) {
+    var pageCount = Math.max(1, Math.ceil(records.length / pageSize));
+    currentPage = Math.min(Math.max(currentPage, 1), pageCount);
+
+    var start = (currentPage - 1) * pageSize;
+    var end = Math.min(start + pageSize, records.length);
+
+    renderList(records.slice(start, end));
+    renderPagination(records, pageCount);
+    renderSummary(records, start, end);
   }
 
   function render() {
@@ -401,8 +481,7 @@
       marker.addTo(markerLayer);
     });
 
-    renderList(visibleRecords);
-    renderSummary(visibleRecords);
+    renderCards(visibleRecords);
 
     if (mappedRecords.length) {
       var bounds = L.latLngBounds(mappedRecords.map(function (record) {
@@ -415,7 +494,10 @@
   }
 
   if (searchNode) {
-    searchNode.addEventListener("input", render);
+    searchNode.addEventListener("input", function () {
+      currentPage = 1;
+      render();
+    });
   }
 
   function fetchJson(url) {

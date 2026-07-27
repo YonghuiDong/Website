@@ -59,6 +59,13 @@
     "lng": -71.06
   },
   {
+    "city": "Bratislava",
+    "country": "Slovakia",
+    "lat": 48.15,
+    "lng": 17.11,
+    "source": "OpenStreetMap"
+  },
+  {
     "city": "Brussels",
     "country": "Belgium",
     "lat": 50.85,

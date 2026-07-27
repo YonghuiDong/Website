@@ -101,6 +101,66 @@
   text-align: left;
 }
 
+.travel-pagination {
+  align-items: center;
+  background: var(--paper-soft);
+  border: 1px solid var(--rule);
+  border-radius: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin: 24px auto 6px;
+  padding: 10px 12px;
+  width: fit-content;
+}
+
+.travel-pagination[hidden] {
+  display: none;
+}
+
+.travel-page-button {
+  align-items: center;
+  background: var(--paper-tint);
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  color: var(--muted);
+  cursor: pointer;
+  display: inline-flex;
+  font: inherit;
+  font-size: 0.95em;
+  font-weight: 700;
+  height: 42px;
+  justify-content: center;
+  min-width: 42px;
+  padding: 0 12px;
+}
+
+.travel-page-button:hover:not(:disabled),
+.travel-page-button:focus {
+  background: var(--accent-soft);
+  border-color: rgba(8, 114, 132, 0.38);
+  color: var(--accent-strong);
+  outline: none;
+}
+
+.travel-page-button.is-active {
+  background: var(--blue);
+  border-color: var(--blue);
+  color: #ffffff;
+}
+
+.travel-page-button:disabled {
+  cursor: default;
+  opacity: 0.42;
+}
+
+.travel-page-ellipsis {
+  color: var(--muted);
+  min-width: 28px;
+  text-align: center;
+}
+
 .travel-city-card {
   background: var(--paper-tint);
   border: 1px solid var(--rule);

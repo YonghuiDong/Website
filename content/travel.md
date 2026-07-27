@@ -21,4 +21,5 @@ travel_map: true
   <div id="travel-map" class="travel-map" role="region" aria-label="Map of traveled cities"></div>
   <p class="travel-map-summary" id="travel-map-summary" aria-live="polite"></p>
   <ol class="travel-city-list" id="travel-city-list"></ol>
+  <nav class="travel-pagination" id="travel-pagination" aria-label="Travel city pages" hidden></nav>
 </section>
