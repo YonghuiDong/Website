@@ -1,0 +1,415 @@
+[
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "lat": 52.37,
+    "lng": 4.9
+  },
+  {
+    "city": "Bandung",
+    "country": "Indonesia",
+    "lat": -6.92,
+    "lng": 107.61,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "lat": 13.75,
+    "lng": 100.49,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "aliases": [
+      "Peking"
+    ],
+    "lat": 39.9,
+    "lng": 116.4
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "lat": 52.52,
+    "lng": 13.4
+  },
+  {
+    "city": "Bologna",
+    "country": "Italy",
+    "lat": 44.5,
+    "lng": 11.33
+  },
+  {
+    "city": "Boston",
+    "country": "United States",
+    "countryAliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "lat": 42.36,
+    "lng": -71.06
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "lat": 50.85,
+    "lng": 4.35
+  },
+  {
+    "city": "Cambridge",
+    "country": "United Kingdom",
+    "countryAliases": [
+      "UK",
+      "Great Britain"
+    ],
+    "lat": 52.2,
+    "lng": 0.12
+  },
+  {
+    "city": "Chicago",
+    "country": "United States",
+    "countryAliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "lat": 41.88,
+    "lng": -87.63
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "lat": 55.68,
+    "lng": 12.57
+  },
+  {
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "countryAliases": [
+      "UAE"
+    ],
+    "lat": 25.2,
+    "lng": 55.27
+  },
+  {
+    "city": "Frankfurt",
+    "country": "Germany",
+    "lat": 50.11,
+    "lng": 8.68
+  },
+  {
+    "city": "Geneva",
+    "country": "Switzerland",
+    "lat": 46.2,
+    "lng": 6.14
+  },
+  {
+    "city": "Guangzhou",
+    "country": "China",
+    "lat": 23.13,
+    "lng": 113.26
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "lat": 21.03,
+    "lng": 105.85,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "lat": 22.32,
+    "lng": 114.17
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "lat": -6.18,
+    "lng": 106.83,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Jena",
+    "country": "Germany",
+    "lat": 50.93,
+    "lng": 11.59,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Jerusalem",
+    "country": "Israel",
+    "lat": 31.78,
+    "lng": 35.21
+  },
+  {
+    "city": "Kaifeng",
+    "country": "China",
+    "lat": 34.8,
+    "lng": 114.31,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "lat": 27.71,
+    "lng": 85.32,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Kolkata",
+    "country": "India",
+    "lat": 22.57,
+    "lng": 88.36,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "lat": 35.01,
+    "lng": 135.77
+  },
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "countryAliases": [
+      "UK",
+      "Great Britain"
+    ],
+    "lat": 51.51,
+    "lng": -0.13
+  },
+  {
+    "city": "Los Angeles",
+    "country": "United States",
+    "countryAliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "lat": 34.05,
+    "lng": -118.24
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "lat": 40.42,
+    "lng": -3.7
+  },
+  {
+    "city": "Milan",
+    "country": "Italy",
+    "lat": 45.46,
+    "lng": 9.19
+  },
+  {
+    "city": "Munich",
+    "country": "Germany",
+    "lat": 48.14,
+    "lng": 11.58
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "lat": 28.61,
+    "lng": 77.21,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "New York",
+    "country": "United States",
+    "aliases": [
+      "New York City",
+      "NYC"
+    ],
+    "countryAliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "lat": 40.71,
+    "lng": -74.01
+  },
+  {
+    "city": "Osaka",
+    "country": "Japan",
+    "lat": 34.69,
+    "lng": 135.5
+  },
+  {
+    "city": "Oxford",
+    "country": "United Kingdom",
+    "countryAliases": [
+      "UK",
+      "Great Britain"
+    ],
+    "lat": 51.75,
+    "lng": -1.26
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "lat": 48.86,
+    "lng": 2.35
+  },
+  {
+    "city": "Pokhara",
+    "country": "Nepal",
+    "lat": 28.21,
+    "lng": 83.99,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Prague",
+    "country": "Czechia",
+    "countryAliases": [
+      "Czech Republic"
+    ],
+    "lat": 50.08,
+    "lng": 14.44
+  },
+  {
+    "city": "Rehovot",
+    "country": "Israel",
+    "lat": 31.89,
+    "lng": 34.81
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "lat": 41.9,
+    "lng": 12.5
+  },
+  {
+    "city": "San Francisco",
+    "country": "United States",
+    "countryAliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "lat": 37.77,
+    "lng": -122.42
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "countryAliases": [
+      "Korea"
+    ],
+    "lat": 37.57,
+    "lng": 126.98
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "lat": 31.23,
+    "lng": 121.47
+  },
+  {
+    "city": "Shenzhen",
+    "country": "China",
+    "lat": 22.54,
+    "lng": 114.06
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "lat": 1.35,
+    "lng": 103.82
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "lat": 59.33,
+    "lng": 18.07
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "lat": -33.87,
+    "lng": 151.21
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "lat": 25.03,
+    "lng": 121.57
+  },
+  {
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "lat": 32.09,
+    "lng": 34.78
+  },
+  {
+    "city": "Tokyo",
+    "country": "Japan",
+    "lat": 35.68,
+    "lng": 139.76
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "lat": 43.65,
+    "lng": -79.38
+  },
+  {
+    "city": "Trento",
+    "country": "Italy",
+    "lat": 46.07,
+    "lng": 11.12
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "lat": 49.28,
+    "lng": -123.12
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "lat": 48.21,
+    "lng": 16.37
+  },
+  {
+    "city": "Washington",
+    "country": "United States",
+    "aliases": [
+      "Washington DC",
+      "Washington, DC"
+    ],
+    "countryAliases": [
+      "USA",
+      "US",
+      "United States of America"
+    ],
+    "lat": 38.9,
+    "lng": -77.04
+  },
+  {
+    "city": "Yangling",
+    "country": "China",
+    "lat": 34.27,
+    "lng": 108.08,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Zhengzhou",
+    "country": "China",
+    "lat": 34.75,
+    "lng": 113.62,
+    "source": "OpenStreetMap"
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "aliases": [
+      "Zuerich"
+    ],
+    "lat": 47.38,
+    "lng": 8.54
+  }
+]

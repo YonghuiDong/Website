@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="{{ "/css/custom.css" | relURL }}" />
 <script src="https://kit.fontawesome.com/6f032004ca.js" crossorigin="anonymous"></script>
 <link rel="stylesheet" href="{{ "/css/academicons.css" | relURL }}"  media="all"/>
+{{ if .Params.travel_map }}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="{{ "/css/travel-map.css" | relURL }}" />
+{{ end }}
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">

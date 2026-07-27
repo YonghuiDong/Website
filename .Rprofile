@@ -21,3 +21,27 @@ options(
 
 # fix Hugo version
 options(blogdown.hugo.version = "0.89.4")
+
+resolve_travel_map_cities <- function() {
+  node <- Sys.which("node")
+  if (!nzchar(node)) {
+    warning("Node.js was not found; travel city coordinates were not resolved.")
+    return(invisible())
+  }
+
+  status <- system2(node, "scripts/resolve-travel-cities.mjs")
+  if (!identical(status, 0L)) {
+    stop("Travel city coordinate lookup failed. Check the city and country spelling.")
+  }
+
+  system2(
+    node,
+    "scripts/watch-travel-cities.mjs",
+    env = "TRAVEL_WATCH_SKIP_INITIAL=1",
+    wait = FALSE,
+    stdout = FALSE,
+    stderr = FALSE
+  )
+}
+
+options(blogdown.server.first = resolve_travel_map_cities)

@@ -1,0 +1,33 @@
+[
+  {
+    "country": "Japan",
+    "year": 2024,
+    "kind": "Travel",
+    "cities": ["Tokyo", "Kyoto", "Osaka"],
+    "note": "Read my related post",
+    "url": "/cn/2024/example-post/"
+  },
+  {
+    "country": "Netherlands",
+    "kind": "Research",
+    "cities": [
+      {
+        "city": "Amsterdam",
+        "year": 2023,
+        "note": "Missing coordinates are resolved automatically before publishing."
+      }
+    ]
+  },
+  {
+    "country": "United States",
+    "kind": "Travel",
+    "cities": [
+      {
+        "city": "Cambridge",
+        "region": "Massachusetts",
+        "year": 2025,
+        "note": "Region is optional and helps distinguish cities with the same name."
+      }
+    ]
+  }
+]

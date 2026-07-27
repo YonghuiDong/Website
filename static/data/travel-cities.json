@@ -1,0 +1,102 @@
+[
+  {
+    "country": "China",
+    "year": "2004-2007",
+    "kind": "Study",
+    "cities": ["Yangling"],
+    "note": "Bachelor"
+  },
+  {
+    "country": "Italy",
+    "year": "2008-2010",
+    "kind": "Study",
+    "cities": ["Bologna"],
+    "note": "Master"
+  },
+  {
+    "country": "Germany",
+    "year": "2008-2010",
+    "kind": "Study",
+    "cities": ["Munich"],
+    "note": "Master"
+  },
+  {
+    "country": "Austria",
+    "year": "2008-2010",
+    "kind": "Study",
+    "cities": ["Vienna"],
+    "note": "Master"
+  },
+   {
+    "country": "Italy",
+    "year": "2010-2014",
+    "kind": "Study",
+    "cities": ["Trento"],
+    "note": "PhD"
+  },
+     {
+    "country": "Germany",
+    "year": "2013",
+    "kind": "Study",
+    "cities": ["Jena"],
+    "note": "Exchange PhD Student at Max Planck Institute for Chemical Energy"
+  },
+   {
+    "country": "Israel",
+    "year": "2015-2024",
+    "kind": "Work",
+    "cities": ["Rehovot", "Tel Aviv"],
+    "note": "Postdoc & Researcher"
+  },
+     {
+    "country": "Indonesia",
+    "year": "2026",
+    "kind": "Travel",
+    "cities": ["Jakarta", "Bandung"],
+    "note": ""
+  },
+     {
+    "country": "Thailand",
+    "year": "2024",
+    "kind": "Travel",
+    "cities": ["Bangkok"],
+    "note": ""
+  },
+  {
+    "country": "Nepal",
+    "year": "2022, 2025",
+    "kind": "Travel",
+    "cities": ["Kathmandu", "Pokhara"],
+    "note": ""
+  },
+  {
+    "country": "India",
+    "year": "2019",
+    "kind": "Travel",
+    "cities": ["New Delhi", "Kolkata"],
+    "note": "For my friend's wedding"
+  },
+    {
+    "country": "Vietnam",
+    "year": "2025",
+    "kind": "Travel",
+    "cities": ["Hanoi"],
+    "note": "https://www.biodong.com/cn/2022/flees/"
+  },
+      {
+    "country": "China",
+    "year": "2026",
+    "kind": "Conference",
+    "cities": ["Zhengzhou", "Kaifeng"],
+    "note": "Invited Speaker"
+  },
+   {
+    "country": "China",
+    "year": "2025",
+    "kind": "Conference",
+    "cities": ["Beijing"],
+    "note": "Invited Speaker at the second International Plant SpatioTemporal Omics Research Conference 2025"
+  }
+
+
+]

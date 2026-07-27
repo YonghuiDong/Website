@@ -11,6 +11,8 @@ disable_highlight: true
 
 - 平时爱好包括爬山和撸猫。
 
+- 我的足迹请看[足迹地图](/travel/)。
+
 - <i class="fa fa-github" aria-hidden="true"></i>: [Github](https://github.com/yonghuidong)
 
 - <i class="fa fa-twitter" aria-hidden="true"></i>: [Twitter](https://twitter.com/Yonghui_Dong)

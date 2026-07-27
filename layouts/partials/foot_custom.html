@@ -25,4 +25,11 @@ document.addEventListener('keyup', function(e) {
 <script async src="{{ . | relURL }}"></script>
 {{ end }}
 
+{{ if .Params.travel_map }}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="{{ "/js/travel-map.js" | relURL }}"></script>
+{{ end }}
+
+{{ if not .Params.disable_mathjax }}
 <script async src="//cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+{{ end }}
