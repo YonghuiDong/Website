@@ -260,6 +260,13 @@
     "lng": 135.5
   },
   {
+    "city": "Ourense",
+    "country": "Spain",
+    "lat": 42.34,
+    "lng": -7.86,
+    "source": "OpenStreetMap"
+  },
+  {
     "city": "Oxford",
     "country": "United Kingdom",
     "countryAliases": [
@@ -346,6 +353,13 @@
     "country": "Sweden",
     "lat": 59.33,
     "lng": 18.07
+  },
+  {
+    "city": "Strasbourg",
+    "country": "France",
+    "lat": 48.58,
+    "lng": 7.75,
+    "source": "OpenStreetMap"
   },
   {
     "city": "Sydney",

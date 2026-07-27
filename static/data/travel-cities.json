@@ -131,6 +131,20 @@
     "kind": "Work",
     "cities": ["Fuzhou"],
     "note": ""
+  },
+    {
+    "country": "France",
+    "year": "2017",
+    "kind": "Conference",
+    "cities": ["Strasbourg"],
+    "note": "Invited Speaker at the The French National Centre for Scientific Research"
+  },
+   {
+    "country": "Spain",
+    "year": "2012",
+    "kind": "Conference",
+    "cities": ["Ourense"],
+    "note": "Speaker at The Ourense Conference on Imaging Mass Spectrometry"
   }
 
 
