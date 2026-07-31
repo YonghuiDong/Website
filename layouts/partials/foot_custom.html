@@ -28,6 +28,7 @@ document.addEventListener('keyup', function(e) {
 {{ if .Params.travel_map }}
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script src="{{ "/js/travel-map.js" | relURL }}?v={{ md5 (readFile "static/js/travel-map.js") }}"></script>
+<script src="{{ "/js/travel-map-zh.js" | relURL }}?v={{ md5 (readFile "static/js/travel-map-zh.js") }}"></script>
 {{ end }}
 
 {{ if not .Params.disable_mathjax }}
