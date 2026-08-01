@@ -184,8 +184,6 @@
     record = record || {};
     var city = String(record.city || record.name || "").trim();
     var country = String(record.country || "").trim();
-    var cityZh = String(record.cityZh || "").trim();
-    var countryZh = String(record.countryZh || "").trim();
     var region = String(record.region || "").trim();
     var note = String(record.note || "").trim();
     var explicitUrl = safeUrl(record.url || record.link);
@@ -200,8 +198,6 @@
       index: index,
       city: city || (coordinate && coordinate.city) || "",
       country: country || (coordinate && coordinate.country) || "",
-      cityDisplay: cityZh || city || (coordinate && coordinate.city) || "",
-      countryDisplay: countryZh || country || (coordinate && coordinate.country) || "",
       region: region || (coordinate && coordinate.region) || "",
       lat: coordinate ? coordinate.lat : null,
       lng: coordinate ? coordinate.lng : null,
@@ -260,8 +256,7 @@
 
   function recordMatches(record) {
     var query = searchNode ? searchNode.value.trim().toLowerCase() : "";
-    var text = [record.city, record.cityDisplay, record.region, record.country, record.countryDisplay,
-      record.year, record.kind, record.note]
+    var text = [record.city, record.region, record.country, record.year, record.kind, record.note]
       .join(" ")
       .toLowerCase();
 
@@ -287,7 +282,7 @@
   }
 
   function popupHtml(record) {
-    var location = [record.cityDisplay, record.region, record.countryDisplay].filter(Boolean).join(", ");
+    var location = [record.city, record.region, record.country].filter(Boolean).join(", ");
     var meta = [kindLabel(record.kind), record.year].filter(Boolean).join(" / ");
     var noteText = record.note || (record.url ? "Read related post" : "");
     var note = noteText
@@ -339,7 +334,7 @@
       var item = document.createElement("li");
       var card = document.createElement("div");
       var button = document.createElement("button");
-      var title = [record.cityDisplay, record.region, record.countryDisplay].filter(Boolean).join(", ");
+      var title = [record.city, record.region, record.country].filter(Boolean).join(", ");
       var meta = [kindLabel(record.kind), record.year].filter(Boolean).join(" / ");
       var noteText = record.note || (record.url ? "Read related post" : "");
 
