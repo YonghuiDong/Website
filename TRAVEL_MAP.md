@@ -11,6 +11,24 @@ Edit `static/data/travel-cities.json` with English city and country names. A cou
 }
 ```
 
+English names are used for coordinate matching. To display Chinese names on the map, add optional `countryZh` and `cityZh` fields. For multiple cities, use city objects:
+
+```json
+{
+  "country": "Italy",
+  "countryZh": "意大利",
+  "year": "2008-2014",
+  "kind": "Study",
+  "cities": [
+    { "city": "Bologna", "cityZh": "博洛尼亚" },
+    { "city": "Trento", "cityZh": "特伦托" }
+  ],
+  "note": "Master & PhD"
+}
+```
+
+Chinese names are used for cards, map popups, and search when supplied. If a Chinese field is omitted, the English name is displayed instead.
+
 To make the note link to a related post, add a `url`. Relative site paths and full `https://` links are supported:
 
 ```json
