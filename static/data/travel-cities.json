@@ -1,163 +1,201 @@
 [
   {
     "country": "China",
+    "countryZh": "中国",
     "year": "2004-2007",
     "kind": "Study",
-    "cities": ["Yangling"],
+    "cities": [{ "city": "Yangling", "cityZh": "杨凌" }],
     "note": "Bachelor"
   },
   {
     "country": "Italy",
+    "countryZh": "意大利",
     "year": "2008-2010",
     "kind": "Study",
-    "cities": ["Bologna"],
+    "cities": [{ "city": "Bologna", "cityZh": "博洛尼亚" }],
     "note": "Master"
   },
   {
     "country": "Germany",
+    "countryZh": "德国",
     "year": "2008-2010",
     "kind": "Study",
-    "cities": ["Munich"],
+    "cities": [{ "city": "Munich", "cityZh": "慕尼黑" }],
     "note": "Master"
   },
   {
     "country": "Austria",
+    "countryZh": "奥地利",
     "year": "2008-2010",
     "kind": "Study",
-    "cities": ["Vienna"],
+    "cities": [{ "city": "Vienna", "cityZh": "维也纳" }],
     "note": "Master"
   },
-   {
+  {
     "country": "Italy",
+    "countryZh": "意大利",
     "year": "2010-2014",
     "kind": "Study",
-    "cities": ["Trento"],
+    "cities": [{ "city": "Trento", "cityZh": "特伦托" }],
     "note": "PhD"
   },
-     {
+  {
     "country": "Germany",
+    "countryZh": "德国",
     "year": "2013",
     "kind": "Study",
-    "cities": ["Jena"],
+    "cities": [{ "city": "Jena", "cityZh": "耶拿" }],
     "note": "Exchange PhD Student at Max Planck Institute for Chemical Energy"
   },
-   {
+  {
     "country": "Israel",
+    "countryZh": "以色列",
     "year": "2015-2024",
     "kind": "Work",
-    "cities": ["Rehovot", "Tel Aviv"],
+    "cities": [
+      { "city": "Rehovot", "cityZh": "雷霍沃特" },
+      { "city": "Tel Aviv", "cityZh": "特拉维夫" }
+    ],
     "note": "Postdoc & Researcher"
   },
-     {
+  {
     "country": "Indonesia",
+    "countryZh": "印度尼西亚",
     "year": "2026",
     "kind": "Travel",
-    "cities": ["Jakarta", "Bandung"],
+    "cities": [
+      { "city": "Jakarta", "cityZh": "雅加达" },
+      { "city": "Bandung", "cityZh": "万隆" }
+    ],
     "note": ""
   },
-     {
+  {
     "country": "Thailand",
+    "countryZh": "泰国",
     "year": "2024",
     "kind": "Travel",
-    "cities": ["Bangkok"],
+    "cities": [{ "city": "Bangkok", "cityZh": "曼谷" }],
     "note": ""
   },
   {
     "country": "Nepal",
+    "countryZh": "尼泊尔",
     "year": "2022, 2025",
     "kind": "Travel",
-    "cities": ["Kathmandu", "Pokhara"],
+    "cities": [
+      { "city": "Kathmandu", "cityZh": "加德满都" },
+      { "city": "Pokhara", "cityZh": "博卡拉" }
+    ],
     "note": ""
   },
   {
     "country": "India",
+    "countryZh": "印度",
     "year": "2019",
     "kind": "Travel",
-    "cities": ["New Delhi", "Kolkata"],
+    "cities": [
+      { "city": "New Delhi", "cityZh": "新德里" },
+      { "city": "Kolkata", "cityZh": "加尔各答" }
+    ],
     "note": "For my friend's wedding"
   },
-    {
+  {
     "country": "Vietnam",
+    "countryZh": "越南",
     "year": "2025",
     "kind": "Travel",
-    "cities": ["Hanoi"],
+    "cities": [{ "city": "Hanoi", "cityZh": "河内" }],
     "note": "https://www.biodong.com/cn/2022/flees/"
   },
-      {
+  {
     "country": "China",
+    "countryZh": "中国",
     "year": "2026",
     "kind": "Conference",
-    "cities": ["Zhengzhou", "Kaifeng"],
+    "cities": [
+      { "city": "Zhengzhou", "cityZh": "郑州" },
+      { "city": "Kaifeng", "cityZh": "开封" }
+    ],
     "note": "Invited Speaker"
   },
-   {
+  {
     "country": "China",
+    "countryZh": "中国",
     "year": "2025",
     "kind": "Conference",
-    "cities": ["Beijing"],
+    "cities": [{ "city": "Beijing", "cityZh": "北京" }],
     "note": "Invited Speaker at the second International Plant SpatioTemporal Omics Research Conference 2025"
   },
-     {
+  {
     "country": "Ukraine",
+    "countryZh": "乌克兰",
     "year": "2017",
     "kind": "Travel",
-    "cities": ["Kyiv"],
+    "cities": [{ "city": "Kyiv", "cityZh": "基辅" }],
     "note": ""
   },
-   {
+  {
     "country": "Laos",
+    "countryZh": "老挝",
     "year": "2024",
     "kind": "Travel",
-    "cities": ["Vientiane"],
+    "cities": [{ "city": "Vientiane", "cityZh": "万象" }],
     "note": ""
   },
   {
     "country": "United Arab Emirates",
+    "countryZh": "阿拉伯联合酋长国",
     "year": "2024",
     "kind": "Travel",
-    "cities": ["Dubai"],
+    "cities": [{ "city": "Dubai", "cityZh": "迪拜" }],
     "note": ""
   },
   {
     "country": "Palestine",
+    "countryZh": "巴勒斯坦",
     "year": "2019, 2020, 2024",
     "kind": "Travel",
-    "cities": ["Bethlehem"],
+    "cities": [{ "city": "Bethlehem", "cityZh": "伯利恒" }],
     "note": ""
   },
   {
     "country": "China",
+    "countryZh": "中国",
     "year": "2024-Now",
     "kind": "Work",
-    "cities": ["Fuzhou"],
+    "cities": [{ "city": "Fuzhou", "cityZh": "福州" }],
     "note": ""
   },
-    {
+  {
     "country": "France",
+    "countryZh": "法国",
     "year": "2017",
     "kind": "Conference",
-    "cities": ["Strasbourg"],
+    "cities": [{ "city": "Strasbourg", "cityZh": "斯特拉斯堡" }],
     "note": "Invited Speaker at the The French National Centre for Scientific Research"
   },
-   {
+  {
     "country": "Spain",
+    "countryZh": "西班牙",
     "year": "2012",
     "kind": "Conference",
-    "cities": ["Ourense"],
+    "cities": [{ "city": "Ourense", "cityZh": "奥伦塞" }],
     "note": "Speaker at The Ourense Conference on Imaging Mass Spectrometry"
   },
-    {
+  {
     "country": "China",
+    "countryZh": "中国",
     "year": "2025",
     "kind": "Conference",
-    "cities": ["Chongqing"],
+    "cities": [{ "city": "Chongqing", "cityZh": "重庆" }],
     "note": "Invited Speaker at ChongQing University"
   },
-   {
+  {
     "country": "Slovakia",
+    "countryZh": "斯洛伐克",
     "year": "2019",
     "kind": "Travel",
-    "cities": ["Bratislava"],
+    "cities": [{ "city": "Bratislava", "cityZh": "布拉迪斯拉发" }],
     "note": ""
   }
   
