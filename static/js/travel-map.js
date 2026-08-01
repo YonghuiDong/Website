@@ -27,6 +27,22 @@
     Other: "#006c7b"
   };
 
+  var kindLabels = {
+    all: "全部",
+    Travel: "旅行",
+    Conference: "学术会议",
+    Research: "科研交流",
+    Study: "学习",
+    Work: "工作",
+    Lived: "工作与生活",
+    Hiking: "徒步",
+    Other: "其他"
+  };
+
+  function kindLabel(kind) {
+    return kindLabels[kind] || kind;
+  }
+
   var map = L.map(mapNode, {
     scrollWheelZoom: false,
     worldCopyJump: true
@@ -267,7 +283,7 @@
 
   function popupHtml(record) {
     var location = [record.city, record.region, record.country].filter(Boolean).join(", ");
-    var meta = [record.kind, record.year].filter(Boolean).join(" / ");
+    var meta = [kindLabel(record.kind), record.year].filter(Boolean).join(" / ");
     var noteText = record.note || (record.url ? "Read related post" : "");
     var note = noteText
       ? "<p>" + (record.url
@@ -297,9 +313,9 @@
   function renderFilters() {
     if (!filterNode) return;
     filterNode.innerHTML = "";
-    filterNode.appendChild(createFilterButton("all", "All"));
+    filterNode.appendChild(createFilterButton("all", kindLabel("all")));
     uniqueKinds(cityRecords).forEach(function (kind) {
-      filterNode.appendChild(createFilterButton(kind, kind));
+      filterNode.appendChild(createFilterButton(kind, kindLabel(kind)));
     });
   }
 
@@ -319,12 +335,12 @@
       var card = document.createElement("div");
       var button = document.createElement("button");
       var title = [record.city, record.region, record.country].filter(Boolean).join(", ");
-      var meta = [record.kind, record.year].filter(Boolean).join(" / ");
+      var meta = [kindLabel(record.kind), record.year].filter(Boolean).join(" / ");
       var noteText = record.note || (record.url ? "Read related post" : "");
 
       button.type = "button";
       button.className = "travel-city-focus";
-      button.setAttribute("aria-label", "Show " + (title || "city") + " on map");
+      button.setAttribute("aria-label", "在地图上显示 " + (title || "城市"));
       button.addEventListener("click", function () {
         focusRecord(record.index);
       });
@@ -355,7 +371,7 @@
       if (record.missingCoordinate) {
         var warning = document.createElement("span");
         warning.className = "travel-city-warning";
-        warning.textContent = "Coordinate not found in the city table.";
+        warning.textContent = "未在城市坐标表中找到对应坐标。";
         card.appendChild(warning);
       }
 
@@ -404,7 +420,7 @@
       paginationNode.appendChild(button);
     }
 
-    addPageButton("\u2039", currentPage - 1, "Previous page", currentPage === 1, false);
+    addPageButton("\u2039", currentPage - 1, "上一页", currentPage === 1, false);
 
     paginationPages(pageCount).forEach(function (page) {
       if (page === null) {
@@ -416,22 +432,22 @@
         return;
       }
 
-      addPageButton(String(page), page, "Page " + page, false, page === currentPage);
+      addPageButton(String(page), page, "第 " + page + " 页", false, page === currentPage);
     });
 
-    addPageButton("\u203a", currentPage + 1, "Next page", currentPage === pageCount, false);
+    addPageButton("\u203a", currentPage + 1, "下一页", currentPage === pageCount, false);
   }
 
   function renderSummary(records, start, end) {
     if (!summaryNode) return;
 
     if (!cityRecords.length) {
-      summaryNode.textContent = "No city entries yet. Add English city and country records to /data/travel-cities.json.";
+      summaryNode.textContent = "暂无城市记录。";
       return;
     }
 
     if (!records.length) {
-      summaryNode.textContent = "No cities match the current search or filter.";
+      summaryNode.textContent = "没有符合当前搜索或筛选条件的城市。";
       return;
     }
 
@@ -442,10 +458,10 @@
       .filter(Boolean)
       .filter(function (country, index, all) { return all.indexOf(country) === index; });
 
-    summaryNode.textContent = mappedRecords.length + " mapped cities shown" +
-      (countries.length ? " across " + countries.length + " countries or regions" : "") +
-      (missingCount ? ". " + missingCount + " entries need a city-center coordinate." : ". Coordinates are rounded before display.") +
-      " Showing " + (start + 1) + "-" + end + " of " + records.length + " cards.";
+    summaryNode.textContent = "共显示 " + mappedRecords.length + " 个城市" +
+      (countries.length ? "，分布于 " + countries.length + " 个国家或地区" : "") +
+      (missingCount ? "；其中 " + missingCount + " 条记录缺少城市中心坐标" : "。坐标显示前已取整") +
+      "。当前显示第 " + (start + 1) + "-" + end + " 条，共 " + records.length + " 条记录。";
   }
 
   function renderCards(records) {
