@@ -153,6 +153,13 @@
     "lng": 114.17
   },
   {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "lat": 41.01,
+    "lng": 28.98,
+    "source": "OpenStreetMap"
+  },
+  {
     "city": "Jakarta",
     "country": "Indonesia",
     "lat": -6.18,

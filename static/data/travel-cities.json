@@ -159,6 +159,13 @@
     "kind": "Travel",
     "cities": ["Bratislava"],
     "note": ""
+  },
+    {
+    "country": "Turkey",
+    "year": "2026",
+    "kind": "Travel",
+    "cities": ["Istanbul"],
+    "note": ""
   }
   
 
